@@ -1,0 +1,2076 @@
+FPK_Basic_Medium,
+Property name,Chinesisch_mandarin\nText
+Warn_0xa232_Text,请加注 AdBlue (DEF)。\n%0 %1 后\n不能启动发动机。
+Warn_0xa233_Text,故障：AdBlue (DEF)。\n%0 %1 后\n不能启动发动机。
+Warn_0xa600_Text,请加注 AdBlue (DEF)。\n续驶里程：%0 %1
+Warn_0xa113_Text,请加注 AdBlue (DEF)。\n无法启动发动机。
+Warn_0xa292_Text,电子驻车制动器：\n生产模式
+Warn_0xa139_Text,故障：电子驻车制动器。\n请立即安全停车!\n请去维修站!
+Warn_0xa100_Text,故障：制动器。请去维修站。
+Warn_0xa101_Text,故障：电子驻车制动器
+Warn_0xa407_Text,制动助力系统失效。
+Warn_0xa13a_Text,故障：电子驻车制动器。\n请使用驻车制动器。
+Warn_0xa102_Text,请检查制动液液位。\n请参阅用户手册。
+Warn_0xa253_Text,故障：制动器。请去维修站。
+Warn_0xa290_Text,电子驻车制动器 (EPB)：\n试验台模式
+Warn_0xa291_Text,电子驻车制动器 (EPB)：\n运输模式
+Warn_0xa234_Text,请检查制动摩擦片。
+Warn_0xa235_Text,发动机转速最高\n%0 rpm。
+Warn_0xa7c7_Text,故障：变速箱。\n可以继续慢速行驶。
+Warn_0xa3e3_Text,请降低机油油位。\n请去维修站。
+Warn_0xa2ef_Text,故障：侧面泊车雷达系统
+Warn_0xa436_Text,挂车：变道辅助系统\n不可用。
+Warn_0xa130_Text,请检查冷却液液位。\n请参阅用户手册。
+Warn_0xa671_Text,车速限速器不可用。\n请参阅用户手册。
+Warn_0xa26f_Text,故障：电动汽车低速\n提示音。请谨慎驾驶。
+Warn_0xa672_Text,定速巡航装置不可用。\n请参阅用户手册。
+Warn_0xa6f7_Text,右后车轮螺栓松动。\n请检查所有车轮。
+Warn_0xa68f_Text,下车警示系统和\n驶出车位辅助：\n传感器无视野。
+Warn_0xa7ed_Text,故障：泊车雷达系统
+Warn_0xa221_Text,故障：燃料加注系统。\n请去维修站。
+Warn_0xa564_Text,需要发动机运转。\n请踩离合器踏板。
+Warn_0xa21c_Text,故障：雨刮器
+Warn_0xa106_Text,故障：机油压力。\n请立即停车\n并参阅用户手册。
+Warn_0xa7f3_Text,故障：挂车辅助\n(Trailer Assist)
+Warn_0xa3ea_Text,车道保持辅助系统不可用。\n请参阅用户手册。
+Warn_0xa686_Text,故障：变道辅助系统和\n下车警示系统
+Warn_0xa140_Text,电驱动装置功能异常。\n请立即安全停车!
+Warn_0xa30f_Text,请检查右侧雾灯。
+Warn_0xa2c4_Text,故障：泊车雷达系统
+Warn_0xa2f3_Text,泊车雷达系统：\n请清洁前部传感器，\n并安全驾驶。
+Warn_0xa7d3_Text,驶出车位辅助/盲区监控/\n下车警示系统：\n传感器无视野。
+Warn_0xa328_Text,请检查右侧\n转向信号灯/制动灯/尾灯。
+Warn_0xa4a9_Text,下车警示系统当前不可用。
+Warn_0xa21f_Text,车内未找到遥控钥匙。
+Warn_0xa7f2_Text,泊车制动功能当前不可用。
+Warn_0xa647_Text,换油保养已到期!
+Warn_0xa146_Text,故障：驱动系统。\n请安全停车!
+Warn_0xa690_Text,下车警示系统/\n驶出车位辅助不可用。
+Warn_0xa4ab_Text,下车警示系统不可用。\n传感器无视野。
+Warn_0xa7eb_Text,泊车功能的显示\n当前不可用。
+Warn_0xa372_Text,故障：12 伏供电。\n请去维修站。
+Warn_0xa317_Text,故障：车辆照明
+Warn_0xa6ef_Text,紧急辅助系统已关闭。
+Warn_0xa37c_Text,请让维修人员更换\n座椅占用识别系统\n的蓄电池。\n请去维修站。
+Warn_0xa684_Text,挂车：驶出车位辅助\n不可用。
+Warn_0xa29b_Text,故障：换挡杆。只能使用\n两片换挡拨片换挡。\n请去维修站。
+Warn_0xa7e6_Text,预防式乘员保护系统受限。\n传感器无视野。
+Warn_0xa33a_Text,请检查左前静态弯道灯。
+Warn_0xa688_Text,变道辅助系统和\n下车警示系统不可用。
+Warn_0xa693_Text,下车警示系统/变道\n辅助系统/驶出车位\n辅助：传感器无视野。
+Warn_0xa22c_Text,故障：减振器
+Warn_0xa33b_Text,请检查左侧大灯。
+Warn_0xa650_Text,驶出车位辅助/盲区监控\n当前不可用。
+Warn_0xa504_Text,故障：12 伏蓄电池诊断。\n请去维修站。
+Warn_0xa625_Text,挂车辅助 (Trailer Assist)\n不可用。摄像头无视野。
+Warn_0xa2c7_Text,请更换 12 伏蓄电池。\n请去维修站。
+Warn_0xa323_Text,请检查右侧尾灯。
+Warn_0xa501_Text,12 伏蓄电池电量不足。\n通过行驶充电。
+Warn_0xa306_Text,请检查左侧日间行车灯。
+Warn_0xa2c8_Text,需要发动机运转。\n请勿关闭发动机。
+Warn_0xa30d_Text,请检查右侧近光灯。
+Warn_0xa226_Text,颗粒过滤器需要再生。\n请参阅用户手册。
+Warn_0xa2ed_Text,P 按钮功能无效。发动机\n关闭时自动激活驻车锁。\n请去维修站!
+Warn_0xa7c6_Text,故障：变速箱。\n可以继续行驶。
+Warn_0xa326_Text,请检查右侧制动灯/尾灯。
+Warn_0xa6b1_Text,紧急呼叫功能当前受限。\n请参阅用户手册。
+Warn_0xa32f_Text,挂车：请检查\n右侧转向信号灯。
+Warn_0xa327_Text,请检查右侧后雾灯/尾灯。
+Warn_0xa7f0_Text,泊车转向辅助系统\n当前不可用。
+Warn_0xa2f0_Text,泊车雷达系统：\n请清洁后部传感器，\n并安全驾驶。
+Warn_0xa22b_Text,车速超过 120 km/h。
+Warn_0xa68d_Text,下车警示系统和驶出\n车位辅助当前不可用。
+Warn_0xa628_Text,挂车辅助 (Trailer Assist)\n当前不可用。
+Warn_0xa217_Text,故障：动态大灯随动转向
+Warn_0xa21e_Text,请更换遥控钥匙电池。
+Warn_0xa305_Text,请检查左侧\n侧面转向信号灯。
+Warn_0xa308_Text,请检查左侧\n日间行车灯/雾灯。
+Warn_0xa206_Text,故障：间接式胎压监测
+Warn_0xa6a3_Text,需要发动机长时间运转。
+Warn_0xa31b_Text,请检查左侧倒车灯。
+Warn_0xa4aa_Text,故障：下车警示系统
+Warn_0xa265_Text,燃油滤清器中有水。\n请参阅用户手册。
+Warn_0xa4ac_Text,下车警示系统不可用。\n识别到挂车。
+Warn_0xa651_Text,故障：驶出车位辅助/\n盲区监控
+Warn_0xa37b_Text,全轮驱动功能失灵。可以\n继续行驶。请去维修站。
+Warn_0xa377_Text,制动器过热。请安全停车!
+Warn_0xa687_Text,变道辅助系统和\n下车警示系统：\n传感器无视野。
+Warn_0xa218_Text,故障：大灯照明距离调节
+Warn_0xa304_Text,请检查左侧雾灯。
+Warn_0xa683_Text,驶出车位辅助不可用。\n传感器无视野。
+Warn_0xa2da_Text,故障：电动汽车低速\n提示音。请谨慎驾驶。
+Warn_0xa692_Text,故障：变道辅助系统,\n下车警示系统和\n驶出车位辅助
+Warn_0xa3eb_Text,车道保持辅助系统不可用。\n摄像头无视野。\n请参阅用户手册。
+Warn_0xa7b0_Text,故障：方向盘加热
+Warn_0xa0ed_Text,预见性调节功能在本国\n不可用。
+Warn_0xa29e_Text,制动器过热。请挂入 D 挡。
+Warn_0xa209_Text,变速箱处于紧急运行模式。\n可以继续行驶。
+Warn_0xa301_Text,请检查左前驻车示宽灯。
+Warn_0xa46f_Text,故障：\n防抱死制动系统 (ABS)
+Warn_0xa7f7_Text,故障：全景摄像系统
+Warn_0xa4a2_Text,超速提醒当前不可用。
+Warn_0xa069_Text,该区域没有可用数据。
+Warn_0xa685_Text,变道辅助系统和\n下车警示系统\n当前不可用。
+Warn_0xa68e_Text,故障：下车警示系统和\n驶出车位辅助
+Warn_0xa144_Text,故障：48 伏供电。\n请立即安全停车!\n请参阅用户手册。
+Warn_0xa115_Text,电驱动装置失灵。请立即\n安全停车并参阅用户手册!
+Warn_0xa307_Text,请检查左侧\n日间行车灯/近光灯。
+Warn_0xa88e_Text,请收折并降下中间桌板。\n请参阅用户手册。
+Warn_0xa7d1_Text,驶出车位辅助/盲区监控/\n下车警示系统当前不可用。
+Warn_0xa29f_Text,制动器过热。\n请挂挡并注意挡位建议。
+Warn_0xa32b_Text,请检查高位制动灯。
+Warn_0xa2f6_Text,泊车雷达系统：请清洁\n侧面传感器并安全驾驶。
+Warn_0xa6f1_Text,紧急辅助系统当前不可用。
+Warn_0xa6f5_Text,右前车轮螺栓松动。\n请检查所有车轮。
+Warn_0xa2b6_Text,故障：驱动系统。\n车辆性能受限。
+Warn_0xa23b_Text,车辆性能受限。\n请参阅用户手册。
+Warn_0xa401_Text,故障：发动机自动启停系统
+Warn_0xa7f8_Text,故障：全景摄像系统
+Warn_0xa373_Text,故障：12 伏供电。\n请立即安全停车!\n请参阅用户手册。
+Warn_0xa300_Text,请检查左前转向信号灯。
+Warn_0xa653_Text,挂车：驶出车位辅助/\n盲区监控不可用。
+Warn_0xa31d_Text,请检查左侧制动灯/尾灯。
+Warn_0xa30c_Text,请检查右前驻车示宽灯。
+Warn_0xa311_Text,请检查右侧日间行车灯。
+Warn_0xa68b_Text,变道辅助和驶出车位辅助\n不可用。传感器无视野。
+Warn_0xa29a_Text,有溜车危险! 无法挂 P 挡。\n请使用驻车制动器。
+Warn_0xa302_Text,请检查左侧近光灯。
+Warn_0xa267_Text,故障：液化气。\n请去维修站。
+Warn_0xa25d_Text,电驱动装置功能异常。\n请去维修站。
+Warn_0xa0e8_Text,预见性调节功能当前\n不可用。
+Warn_0xa315_Text,请检查右侧\n近光灯/远光灯。
+Warn_0xa223_Text,请降低机油油位。\n请参阅用户手册。
+Warn_0xa434_Text,故障：变道辅助系统
+Warn_0xa7ef_Text,泊车转向辅助系统\n当前不可用。
+Warn_0xa6f4_Text,左前车轮螺栓松动。\n请检查所有车轮。
+Warn_0xa7f4_Text,故障：挂车辅助\n(Trailer Assist)
+Warn_0xa7f1_Text,泊车制动功能当前不可用。
+Warn_0xa329_Text,请检查右侧\n制动灯/转向信号灯。
+Warn_0xa2f2_Text,泊车雷达系统：\n请清洁前部传感器，\n并安全驾驶。
+Warn_0xa652_Text,驶出车位辅助/盲区监控\n不可用。传感器无视野。
+Warn_0xa40d_Text,ESC 越野：\n行驶稳定性受限。
+Warn_0xa6a1_Text,下次启动时发动机\n自动运行。
+Warn_0xa2f5_Text,泊车雷达系统：\n请清洁传感器，\n并安全驾驶。
+Warn_0xa68c_Text,挂车：变道辅助和\n驶出车位辅助不可用。
+Warn_0xa2c1_Text,故障：后部泊车雷达系统
+Warn_0xa303_Text,请检查左侧远光灯。
+Warn_0xa7f9_Text,故障：驶出车位辅助
+Warn_0xa322_Text,请检查右侧制动灯。
+Warn_0xa467_Text,预防式乘员保护系统\n不可用。
+Warn_0xa32d_Text,请检查倒车灯。
+Warn_0xa51a_Text,不允许牵引车辆。\n请参阅用户手册!
+Warn_0xa7d0_Text,燃气装置检查到期!\n天然气模式无法继续使用!
+Warn_0xa442_Text,故障：电子儿童安全锁
+Warn_0xa225_Text,机油传感器损坏。\n请去维修站。
+Warn_0xa691_Text,下车警示系统/变道\n辅助系统/驶出车位\n辅助当前不可用。
+Warn_0xa694_Text,下车警示系统/变道\n辅助系统/驶出车位\n辅助不可用。
+Warn_0xa320_Text,请检查左侧\n制动灯/转向信号灯。
+Warn_0xa313_Text,请检查右侧\n日间行车灯/雾灯。
+Warn_0xa312_Text,请检查右侧\n日间行车灯/近光灯。
+Warn_0xa2c3_Text,故障：前部泊车雷达系统
+Warn_0xa31f_Text,请检查左侧\n转向信号灯/制动灯/尾灯。
+Warn_0xa339_Text,请检查右前静态弯道灯。
+Warn_0xa145_Text,故障：48 伏供电。\n请勿启动车辆。\n请参阅用户手册。
+Warn_0xa103_Text,发动机过热。请立即安全\n停车并参阅用户手册。
+Warn_0xa27b_Text,当前不能完成加注\n燃料的准备工作。\n请参阅用户手册。
+Warn_0xa2ee_Text,故障：侧面泊车雷达系统
+Warn_0xa7fa_Text,故障：驶出车位辅助
+Warn_0xa2ec_Text,故障：换挡杆。可以继续\n行驶。请去维修站。
+Warn_0xa4a0_Text,交通标志识别：\n请清洁前窗玻璃。
+Warn_0xa30e_Text,请检查右侧远光灯。
+Warn_0xa502_Text,请让维修人员检查\n12 伏蓄电池。
+Warn_0xa310_Text,请检查右侧\n侧面转向信号灯。
+Warn_0xa123_Text,变速箱过热。请立即停车\n并参阅用户手册。
+Warn_0xa31a_Text,请检查左侧尾灯。
+Warn_0xa6a0_Text,请打开车灯。
+Warn_0xa314_Text,请检查右侧\n日间行车灯/驻车示宽灯。
+Warn_0xa227_Text,请加注清洗液。
+Warn_0xa7e9_Text,泊车功能当前不可用。
+Warn_0xa213_Text,请检查牵引装置的\n锁止装置。
+Warn_0xa38c_Text,12 伏供电当前受限。\n请谨慎驾驶。
+Warn_0xa147_Text,故障：散热系统。\n请去维修站。
+Warn_0xa108_Text,故障：方向盘锁止装置。\n请立即安全停车!
+Warn_0xa228_Text,电驱动装置功能异常。\n请去维修站。
+Warn_0xa468_Text,预防式乘员保护系统受限。
+Warn_0xa2fe_Text,故障：车轮松动警示系统
+Warn_0xa24c_Text,电驱动装置故障。无法重新\n启动。请去维修站。
+Warn_0xa7ea_Text,泊车功能当前不可用。
+Warn_0xa657_Text,驶出车位辅助当前不可用。
+Warn_0xa332_Text,挂车：请检查制动灯。
+Warn_0xa33c_Text,请检查右侧大灯。
+Warn_0xa30b_Text,请检查右前转向信号灯。
+Warn_0xa114_Text,故障：AdBlue (DEF)。\n无法再启动发动机。
+Warn_0xa26c_Text,无法计算续驶里程。
+Warn_0xa503_Text,请注意：尚未达到\n正常工作温度。
+Warn_0xa260_Text,变速箱过热。\n可以继续行驶。
+Warn_0xa858_Text,中央门锁控制不可用。\n请去维修站。
+Warn_0xa20a_Text,故障：变速箱。可以有限制\n地继续行驶。请去维修站。
+Warn_0xa540_Text,车前测距监控系统不可用。\n传感器无视野。
+Warn_0xa141_Text,电驱动装置过热。请立即\n安全停车并参阅用户手册。
+Warn_0xa21d_Text,故障：无钥匙系统。\n请参阅用户手册。
+Warn_0xa309_Text,请检查左侧\n日间行车灯/驻车示宽灯。
+Warn_0xa6a4_Text,只能电动行驶。\n车辆性能受限。
+Warn_0xa6a2_Text,请退出纯电动模式。\n需要发动机长时间运转。
+Warn_0xa104_Text,请检查冷却液液位。\n请参阅用户手册。
+Warn_0xa071_Text,自动变道不可用。
+Warn_0xa446_Text,车前测距监控系统已关闭。
+Warn_0xa7e8_Text,预防式乘员保护系统受限。
+Warn_0xa3e4_Text,机油传感器损坏。\n请去维修站。
+Warn_0xa318_Text,请检查左后转向信号灯。
+Warn_0xa319_Text,请检查左侧制动灯。
+Warn_0xa2c0_Text,故障：后部泊车雷达系统
+Warn_0xa32e_Text,挂车：\n请检查左侧转向信号灯。
+Warn_0xa7f5_Text,故障：倒车摄像头
+Warn_0xa59d_Text,折叠式车顶不可用。\n请参阅用户手册。
+Warn_0xa68a_Text,故障：变道辅助系统\n和驶出车位辅助
+Warn_0xa2f1_Text,泊车雷达系统：\n请清洁后部传感器，\n并安全驾驶。
+Warn_0xa50e_Text,车前测距监控系统不可用。
+Warn_0xa32c_Text,请检查后雾灯。
+Warn_0xa36d_Text,未找到虚拟钥匙。
+Warn_0xa7d2_Text,故障：驶出车位辅助/盲区\n监控/下车警示系统
+Warn_0xa13e_Text,故障：12 伏蓄电池。无法\n重新启动。请去维修站。
+Warn_0xa330_Text,挂车：请检查左侧尾灯。
+Warn_0xa125_Text,变速箱损坏。\n请立即安全停车!
+Warn_0xa20c_Text,故障：换挡杆。只能以 D 挡\n继续行驶直到发动机关闭。
+Warn_0xa367_Text,车速超过 80 km/h。
+Warn_0xa31c_Text,请检查左侧后雾灯。
+Warn_0xa424_Text,故障：灯光辅助系统
+Warn_0xa425_Text,灯光辅助系统：\n请清洁前窗玻璃。
+Warn_0xa409_Text,故障：防抱死制动系统\n(ABS)/电子稳定程序 (ESC)
+Warn_0xa2b5_Text,故障：驱动系统。\n请去维修站。
+Warn_0xa269_Text,故障：天然气。\n请去维修站。
+Warn_0xa411_Text,故障：上坡起步辅助系统
+Warn_0xa439_Text,驶出车位辅助当前不可用。
+Warn_0xa7ec_Text,泊车功能的显示\n当前不可用。
+Warn_0xa6f3_Text,车轮螺栓松动。\n请检查所有车轮。
+Warn_0xa3ec_Text,车道保持辅助系统已关闭。
+Warn_0xa2cb_Text,故障：紧急呼叫功能。\n请去维修站。
+Warn_0xa110_Text,立即加注发动机机油!
+Warn_0xa5a4_Text,故障：折叠式车顶。\n请去维修站。
+Warn_0xa370_Text,故障：虚拟钥匙。\n请参阅用户手册。
+Warn_0xa259_Text,驾驶辅助系统按钮故障。
+Warn_0xa40a_Text,电子稳定程序 (ESC)\n已关闭。
+Warn_0xa646_Text,请立即进行车况检查。
+Warn_0xa40b_Text,牵引力控制 (TCS) 已关闭。
+Warn_0xa136_Text,故障：离合器。请去维修站。
+Warn_0xa435_Text,变道辅助系统不可用。\n传感器无视野。
+Warn_0xa563_Text,故障：变速箱。车速受限。
+Warn_0xa2c2_Text,故障：前部泊车雷达系统
+Warn_0xa682_Text,驶出车位辅助不可用。
+Warn_0xa743_Text,车前测距监控系统\n可用性受限。
+Warn_0xa408_Text,故障：电子稳定程序 (ESC)
+Warn_0xa30a_Text,请检查左侧\n近光灯/远光灯。
+Warn_0xa681_Text,驶出车位辅助当前不可用。
+Warn_0xa2c5_Text,故障：泊车雷达系统
+Warn_0xa216_Text,方向盘锁止装置损坏。\n请去维修站。
+Warn_0xa10a_Text,12 伏蓄电池不充电。\n请立即安全停车!
+Warn_0xa7e7_Text,由于挂车，预防式乘员\n保护系统受限。
+Warn_0xa7f6_Text,故障：倒车摄像头
+Warn_0xa7ee_Text,故障：泊车雷达系统
+Warn_0xa29d_Text,离合器温度高。\n可以继续行驶。
+Warn_0xa471_Text,故障：\n防抱死制动系统 (ABS)/\n牵引力控制 (TCS)
+Warn_0xa20b_Text,变速箱处于紧急运行模式。\n无法挂入倒车挡。
+Warn_0xa32a_Text,请检查牌照灯。
+Warn_0xa2f7_Text,泊车雷达系统：请清洁\n侧面传感器并安全驾驶。
+Warn_0xa4a1_Text,交通标志识别当前受限。
+Warn_0xa849_Text,请检查 AdBlue (DEF)。
+Warn_0xa378_Text,制动器过热。请去维修站。
+Warn_0xa689_Text,变道辅助系统和\n驶出车位辅助不可用。
+Warn_0xa2ca_Text,紧急呼叫功能受限。\n请去维修站。
+Warn_0xa3e9_Text,车道保持辅助系统当前\n不可用。请参阅用户手册。
+Warn_0xa6f2_Text,故障：紧急辅助系统
+Warn_0xa064_Text,半自动驾驶辅助系统\n(Travel Assist) 当前不可用。
+Warn_0xa742_Text,车前测距监控系统不可用。\n电子稳定程序(ESC)已关闭。
+Warn_0xa40e_Text,ESC 运动：\n行驶稳定性受限。
+Warn_0xa220_Text,12 伏蓄电池电量不足。\n通过行驶充电。
+Warn_0xa325_Text,请检查右侧后雾灯。
+Warn_0xa331_Text,挂车：请检查右侧尾灯。
+Warn_0xa215_Text,请检查汽车起动系统。
+Warn_0xa31e_Text,请检查左侧后雾灯/尾灯。
+Warn_0xa7d4_Text,识别到挂车：\n驶出车位辅助/盲区监控/\n下车警示系统不可用。
+Warn_0xa627_Text,倒车摄像头无视野。
+Warn_0xa321_Text,请检查右后转向信号灯。
+Warn_0xa324_Text,请检查右侧倒车灯。
+Warn_0xa6f6_Text,左后车轮螺栓松动。\n请检查所有车轮。
+Warn_0xa433_Text,变道辅助系统当前不可用。
+Warn_0xa470_Text,故障：牵引力控制
+Warn_0xa648_Text,换油保养和车况检查\n已到期!
+Warn_0xa2f4_Text,泊车雷达系统：\n请清洁传感器，\n并安全驾驶。
+Warn_0xa49f_Text,故障：交通标志识别
+Warn_0xa4b5_Text,牵引力控制 (TCS) 已关闭。
+Warn_0xa46d_Text,系统识别到您在疲劳驾驶。
+Warn_0xa46d_Pause_Text,请停车休息。
+Warn_0xa347_Text,重新起步提示功能不可用。
+Warn_0xa131_Text,故障：供电系统。请去维修站。
+Warn_0xa348_Text,重新起步提示功能不可用。
+Warn_0xa54a_Text,不能快速充电。请去维修站。
+Warn_0xa410_Text,故障：自动驻车功能 (Auto Hold)
+Warn_0xa53c_Text,请挂入 P 挡后再离开车辆。\n请去维修站。
+Warn_0xa137_Text,发动机过热。请立即安全\n停车并参阅用户手册。
+Warn_0xa2c9_Text,副蓄电池电量不足。
+Warn_0xa548_Text,不能充电。请去维修站。
+Warn_0xa2d2_Text,已连接充电电缆。
+Warn_0xa255_Text,故障：雨量传感器
+Warn_0xa2a7_Text,请检查汽车起动系统。
+Warn_0xa51b_Text,车辆无法再次起动。\n请立即前往维修站。
+Warn_0xa53b_Text,故障：驾驶员车门接触开关
+Warn_0xa76a_Text,自适应巡航 (ACC)：预见性调节\n功能的车速限制过低。
+Warn_0xa2d1_Text,发动机运转时，副蓄电池放电。
+Warn_0xa56f_Text,制动助力系统受限。
+Warn_0xa4df_Text,Departure warning deactivated.\nProduction mode
+Warn_0xa78c_Text,请挂入 P 挡。
+Warn_0xa13c_Text,机油压力：请立即安全停车\n并参阅用户手册。
+Warn_0xa2d0_Text,请检查副蓄电池的连接。
+Warn_0xa53a_Text,请挂入 P 挡。
+Warn_0xa7c1_Text,故障：驻车锁。请使用驻车制动器。\n请去维修站。
+Warn_0xa256_Text,故障：行车灯自动控制
+Warn_0xa676_Text,自适应巡航 (ACC)：预见性\n调节功能当前不可用。
+Warn_0xa138_Text,请检查冷却液液位。\n请参阅用户手册。
+Warn_0xa262_Text,请检查制动摩擦片。
+Warn_0xa675_Text,自适应巡航 (ACC)：预见性\n调节功能在本国不可用。
+Warn_0xa258_Text,Dyno mode
+Warn_0xa15a_Text,请检查冷却液液位。\n请参阅用户手册。
+Warn_0xa2c6_Text,散热器百叶板功能受限。
+Warn_0xa13d_Text,12 伏蓄电池不充电。\n请立即安全停车!
+Warn_0xa777_Text,故障：车辆能量系统。请去维修站。
+Warn_0xa4ec_Text,故障：组合仪表。请去维修站。
+Warn_0xa13f_Text,12 伏蓄电池不充电。\n请立即安全停车!
+Warn_0xa122_Text,发动机故障：请去维修站。
+Warn_0xa263_Text,请让发动机暖机\n直至油温达到 %0%1。
+Warn_0xa224_Text,请加注最多\n%0 %1\n机油。可以继续行驶。
+Warn_0xa415_Text,驻车制动器：检测模式
+Warn_0xa417_Text,上坡起步辅助系统不可用。
+Warn_0xa239_Text,故障：电子驻车制动器\n(EPB)。请去维修站。
+Warn_0xa20f_Text,故障：电子驻车制动器
+Warn_0xa8a9_Text,请加注燃料。\n续驶里程：%2 %1
+Warn_0xa2a2_Text,请加注燃料。\n续驶里程：%2 %1
+Warn_0xa268_Text,请添加天然气。\n续驶里程：%3 %1
+Warn_0xa222_Text,请加注燃料。\n续驶里程：%0 %1
+Warn_0xa376_Text,请添加天然气。\n续驶里程：%3 %1
+Warn_0xa266_Text,请添加液化气。\n续驶里程：%3 %1
+Warn_0xa641_Text_Days,距离下次换油保养\n还有 %2 天
+Warn_0xa641_Text_Day,距离下次换油保养\n还有 %2 天
+Warn_0xa642_Text_Day,距离下次车况检查\n还有 %3 天
+Warn_0xa642_Text_Days,距离下次车况检查\n还有 %3 天
+Warn_0xa645_Text_Day_Days,距离下次换油保养\n还有 %2 天\n距离下次车况检查\n还有 %3 天
+Warn_0xa645_Text_Days_Days,距离下次换油保养\n还有 %2 天\n距离下次车况检查\n还有 %3 天
+Warn_0xa645_Text_Day_Day,距离下次换油保养\n还有 %2 天\n距离下次车况检查\n还有 %3 天
+Warn_0xa645_Text_Days_Day,距离下次换油保养\n还有 %2 天\n距离下次车况检查\n还有 %3 天
+Warn_0xa7cc_Text_Days,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa7cc_Text_Day,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa7cd_Text_Day,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa7cd_Text_Days,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa7ce_Text_Days,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa7ce_Text_Day,燃气装置检查到期!\n天然气模式在\n%5 天后不可用
+Warn_0xa644_Text,距离下次换油保养\n还有 %0 %1\n距离下次车况检查\n还有 %4 %1
+Warn_0xa640_Text,距离下次换油保养\n还有 %0 %1
+Warn_0xa643_Text,距离下次车况检查\n还有 %4 %1
+Warn_0xa275_Text,压力损失：右后侧轮胎
+Warn_0xa204_Text,压力损失：左后侧轮胎
+Warn_0xa274_Text,压力损失：左后侧轮胎
+Warn_0xa271_Text,识别到压力损失。
+Warn_0xa205_Text,压力损失：右后侧轮胎
+Warn_0xa203_Text,压力损失：右前侧轮胎
+Warn_0xa202_Text,压力损失：左前侧轮胎
+Warn_0xa272_Text,压力损失：左前侧轮胎
+Warn_0xa201_Text,识别到压力损失。
+Warn_0xa273_Text,压力损失：右前侧轮胎
+Warn_0xa26a_Text,续驶里程：%2 %1\n舒适性受限。
+Warn_0xa37a_Text,最高车速限制到\n%0 %1。
+Warn_0xa379_Text,最高车速限制到\n%0 %1。
+LIST_POPUPS_WARNING_KUNDE_KM,** DUMMY **
+LIST_POPUPS_WARNING_KUNDE_KM,km/h
+LIST_POPUPS_WARNING_KUNDE_MILES,** DUMMY **
+LIST_POPUPS_WARNING_KUNDE_MILES,mph
+Warn_0xa37a_Text_HGB_ohne_Wert,最高车速受限。
+SYSTEM_WARNING_FAS_BSD,功能不可用。
+SYSTEM_WARNING_FAS_FRONT,功能不可用。
+SYSTEM_WARNING_FRONT_RESTRICTED_OPERATION,无法停用。\n车速过高。
+SYSTEM_WARNING_FAS_HAUPTSCHALTER,请激活主开关。
+SYSTEM_WARNING_FAS_NOT_AVAILABLE,功能不可用。
+SYSTEM_WARNING_FAS_LANE,功能不可用。
+SYSTEM_WARNING_FAS_PEDESTRIAN,功能不可用。
+SYSTEM_WARNING_FAS_RTA,功能不可用。
+SYSTEM_WARNING_FAS_SIDE,功能不可用。
+REF_OFFROAD_GUIDANCE_Faehre_Text_content_Warnings,请搭乘轮渡。
+REF_OFFROAD_GUIDANCE_Zug_Text_content_Warnings,请搭乘人车同载列车。
+REF_OFFROAD_GUIDANCE_Zug_Text_content_WarningsA,** DUMMY **
+REF_OFFROAD_GUIDANCE_Zug_Text_content_WarningsA,** DUMMY **
+REF_OFFROAD_GUIDANCE_Zug_Text_content_WarningsA,人车同载列车
+REF_OFFROAD_GUIDANCE_Zug_Text_content_WarningsA,轮渡
+REF_OFFROAD_GUIDANCE_Zug_Text_content_WarningsA,** DUMMY **
+SYSTEM_WARNING_FAS_ACC_OFF,自适应巡航 (ACC)\n已关闭。
+SYSTEM_WARNING_FAS_LA_OFF,车道保持辅助系统\n已关闭。
+SYSTEM_WARNING_FAS_ACC_LA_OFF,未激活调节型驾驶辅助\n系统。
+SYSTEM_WARNING_FAS_ACC_OFF_BIGSCREEN,自适应巡航 (ACC)\n已关闭。
+SKODA.SYSTEM_WARNING_FAS_ACC_OFF_BIGSCREEN,自适应巡航 (ACC)\n已关闭。
+SYSTEM_WARNING_FAS_LA_OFF_BIGSCREEN,车道保持辅助系统\n已关闭。
+SYSTEM_WARNING_FAS_ACC_LA_OFF_BIGSCREEN,未激活调节型驾驶辅助\n系统。
+SKODA.SYSTEM_WARNING_FAS_ACC_LA_OFF_BIGSCREEN,自适应巡航 (ACC) 和车道\n保持辅助系统已关闭。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 当前不可用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,故障：自适应巡航 (ACC)
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC)：传感器无视野。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,坡度过大。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,请注意挡位。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,电子驻车制动器已激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,电子稳定程序 (ESC) 干预。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,下坡行驶辅助系统已激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,车速过低。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,请注意换挡杆位置。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,转速过高或过低。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,离合器踏板已踩下。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,电子稳定程序 (ESC) 未介入。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 当前无法激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 当前不可用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,泊车制动功能已激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,泊车转向辅助系统已激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 已关闭。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 正在启动...
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,车门未关好。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,驾驶员安全带未系好。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 重新可用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,定速巡航装置和自适应巡航 (ACC)\n当前不可用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,故障：自适应巡航 (ACC)\n和定速巡航装置
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,定速巡航装置已停用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,车距控制系统未激活。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,定速巡航装置当前不可用。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,故障：定速巡航装置
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,自适应巡航 (ACC) 未开通。
+GUI_PLIST_TEXTIDMAPPER_Warning_Acc_Text_list,** DUMMY **
+API_AdBlue_Unit_Volume_List2_Warnings,gal
+API_AdBlue_Unit_Volume_List1_Warnings,gal
+API_AdBlue_Unit_Volume_List0_Warnings,l
+Warn_0xbe05_Text,AdBlue (DEF)
+LAYOUT_Warning_ARA_Text,方向已设定
+Warn_0xa4e1_Text,车外温度：%0%1
+Warn_0xa4e0_Text,车外温度：%0%1
+Warn_0xbe0b_Text,SOC %0%
+Warn_0xbe01_Text,时间
+Warn_0xa534_Text,已切换至汽油驱动模式。
+ViewTemplate_RKA_Warning_Confirm_content,请检查所有轮胎\n并保存轮胎压力数据!
+Warn_0xa584_Text,注意!
+Warn_0xa581_Text,注意：红灯
+Warn_0xa583_Text,注意：道路拥堵
+Warn_0xa582_Text,注意：停车指示牌
+Warn_0xa585_Text,注意!
+Warn_0xa59b_Text,折叠式车顶已打开。
+Warn_0xa621_Text,挂车当前不可用。请翻开\n车外后视镜然后重新启动。
+Warn_0xa142_Text,请为车辆充电。\n车辆性能受限。
+Warn_0xa63d_Text,请清洁倒车摄像头然后\n重新启动挂车辅助\n(Trailer Assist)。
+Warn_0xa38b_Text,带自动变道的半自动驾驶\n辅助系统 (Travel Assist)\n对此道路类型不可用。
+Warn_0xa61b_Text,挂车辅助 (Trailer Assist)\n结束。请接管车辆。
+Warn_0xa416_Text,请踩制动踏板。
+Warn_0xa593_Text,折叠式车顶处于中间位置。
+Warn_0xa4b4_Text,牵引力控制系统\n(TCS) 已激活。
+Warn_0xa788_Text,请在信息娱乐系统上确认\n驶出车位或挂入倒车挡。
+Warn_0xa7ca_Text,方向盘加热已激活。
+Warn_0xa5cf_Text,请打开转向信号灯\n并挂入倒车挡。
+Warn_0xa852_Text,请激活主开关。
+Warn_0xa438_Text,紧急制动激活。请接管。
+Warn_0xa83f_Text,请接管方向盘!
+Warn_0xa613_Text,挂车辅助：制动干预。
+Warn_0xa5d2_Text,泊车转向辅助已中断。\n车速过高。
+Warn_0xa639_Text,挂车辅助 (Trailer Assist)\n当前不可用。请关闭行李\n厢盖然后重新启动。
+Warn_0xa011_Text,制动!
+Warn_0xa5fc_Text,泊车制动功能当前不可用。
+Warn_0xa835_Text,请仅在车辆停止状态下\n挂入 P 挡。
+Warn_0xa5b7_Text,请关闭行李厢挡板。
+Warn_0xa490_Text,请关闭车灯。
+Warn_0xa596_Text,请关闭行李厢盖。
+Warn_0xa5e4_Text,泊车制动功能当前不可用。\n请清洁倒车摄像头。
+Warn_0xa6a5_Text,请踩下并踩住制动踏板。\n车辆会立即起动。
+Warn_0xa45a_Text,要挂入行驶挡，请踩制动\n踏板并启动发动机。
+Warn_0xa4cc_Text,发动机自动启停系统\n已关闭。
+Warn_0xa5d8_Text,泊车转向辅助已中断。超过\n时间限制。请接管方向盘。
+Warn_0xa5de_Text,泊车转向辅助不可用。\n请去维修站。
+Warn_0xa6ec_Text,紧急辅助系统：\n开始紧急停车。
+Warn_0xa612_Text,挂车辅助已中断。\n驾驶员干预转向。
+Warn_0xa63f_Text,挂车辅助 (Trailer Assist)\n当前不可用。
+Warn_0xa620_Text,请检查挂车的线缆连接。
+Warn_0xa624_Text,请关闭驾驶员车门然后\n重新启动挂车辅助\n(Trailer Assist)。
+Warn_0xa63b_Text,挂车辅助 (Trailer Assist)\n已中断。摄像头当前\n无视野。
+Warn_0xa518_Text,请踩制动踏板。
+Warn_0xa5d0_Text,无法自动驶出车位。\n间距过小。
+Warn_0xa778_Text,下车警示系统已停用。
+Warn_0xa7c9_Text,方向盘加热已激活。
+Warn_0xa626_Text,请关闭行李厢盖然后重新\n启动挂车辅助\n(Trailer Assist)。
+Warn_0xa05a_Text,紧急辅助系统：\n将更换车道。
+Warn_0xa5b5_Text,请继续折叠式车顶操作。
+Warn_0xa065_Text,自适应车道导向已激活。
+Warn_0xa7c0_Text,请仅在车辆停止状态下\n挂入 P 挡。
+Warn_0xa63e_Text,挂车辅助 (Trailer Assist)\n不可用。
+Warn_0xa45c_Text,要保留在 N 挡，\n请接通点火开关，\n否则将挂入 P 挡。
+Warn_0xa615_Text,挂车辅助 (Trailer Assist)\n不可用。请激活\n牵引力控制系统 (TCS)/\n电子稳定程序 (ESC)。
+Warn_0xa5ba_Text,电压过低：请启动发动机。
+Warn_0xa165_Text,已选择自适应巡航。
+Warn_0xa837_Text,变速箱：请去维修站。
+Warn_0xa5b4_Text,折叠式车顶运行...
+Warn_0xa1fe_Text,检查行驶方向!
+Warn_0xa2ae_Text,电动汽车低速提示音\n已停用。
+Warn_0xa072_Text,自动变道已取消。
+Warn_0xa6f9_Text,车轮松动警示系统：\n检测阶段
+Warn_0xa62b_Text,故障：电子稳定程序 (ESC)。\n挂车辅助 (Trailer Assist)\n已中断。
+Warn_0xa616_Text,挂车辅助 (Trailer Assist)\n结束。
+Warn_0xa5cb_Text,泊车转向辅助系统\n当前不可用。
+Warn_0xa5e5_Text,泊车转向辅助结束。\n请接管方向盘。
+Warn_0xa36f_Text,没有虚拟钥匙。\n使用遥控钥匙继续行驶。
+Warn_0xa5d1_Text,泊车制动功能已激活。
+Warn_0xa7e4_Text,泊车转向辅助已中断。\n翼形车门未关好。
+Warn_0xa784_Text,制动!
+Warn_0xa5bb_Text,折叠式车顶：请松开盖板。
+Warn_0xa5f7_Text,无法泊车。停车空间过小。
+Warn_0xa740_Text,请接管车辆。
+Warn_0xa1fd_Text,检查行驶方向!
+Warn_0xa5db_Text,车速过高。请接管方向盘。
+Warn_0xa836_Text,请防止溜车。
+Warn_0xa166_Text,请立即接管车辆!
+Warn_0xa7c8_Text,方向盘加热已激活。
+Warn_0xa635_Text,挂车辅助 (Trailer Assist)\n不可用。识别到自行车架。
+Warn_0xa60e_Text,挂车辅助 (Trailer Assist)\n已中断。
+Warn_0xa7e5_Text,正在拨打紧急呼叫...
+Warn_0xa2af_Text,电动汽车低速提示音\n已启用。
+Warn_0xa0eb_Text,无法预见性调节。\n车速过低。
+Warn_0xa270_Text,故障：间接式胎压监测
+Warn_0xa5ce_Text,泊车转向辅助：车速过低。
+Warn_0xa629_Text,请减速行驶。否则会结束\n挂车辅助 (Trailer Assist)。
+Warn_0xa59c_Text,折叠式车顶已关闭。
+Warn_0xa5c8_Text,泊车转向辅助已中断。\n牵引力控制系统\n(TCS) 已关闭。
+Warn_0xa638_Text,请在较长时间静止后重新\n启动挂车辅助\n(Trailer Assist)。
+Warn_0xa5b8_Text,车速过高。
+Warn_0xa5d7_Text,牵引力控制系统 (TCS)\n已关闭。请接管方向盘。
+Warn_0xa5dc_Text,牵引力控制系统 (TCS)\n干预。请接管方向盘。
+Warn_0xa84f_Text,定速巡航功能未开通。
+Warn_0xa850_Text,自适应巡航 (ACC) 未开通。
+Warn_0xa599_Text,车速过高。
+Warn_0xa77a_Text,注意副驾驶员侧后方道路\n情况!
+Warn_0xa783_Text,识别到障碍物。\n请接管方向盘。
+Warn_0xa83e_Text,请接管方向盘。
+Warn_0xa5b3_Text,折叠式车顶运行...
+Warn_0xa5a0_Text,电压过低：请启动发动机。
+Warn_0xa257_Text,请检查加油口盖。
+Warn_0xa61e_Text,制动!
+Warn_0xa41e_Text,请转动方向盘。
+Warn_0xa5fa_Text,泊车制动功能当前不可用。
+Warn_0xa61d_Text,电子稳定程序不可用。
+Warn_0xa4ee_Text,请关闭后雾灯。
+Warn_0xa6b2_Text,紧急呼叫功能：维护模式
+Warn_0xa617_Text,车外后视镜自动内折。
+Warn_0xa60f_Text,挂车辅助 (Trailer Assist)：\n紧急制动! 请接管车辆。
+Warn_0xa637_Text,挂车辅助 (Trailer Assist)\n当前不可用。
+Warn_0xa5bc_Text,请关闭车窗玻璃。
+Warn_0xa834_Text,危险警告功能需要更新。\n请去维修站。
+Warn_0xa619_Text,未识别到挂车。
+Warn_0xa5df_Text,请接管方向盘并继续行驶。
+Warn_0xa168_Text,自动变道已取消。\n请接管车辆!
+Warn_0xa7e3_Text,泊车转向辅助已中断。\n翼形车门未关好。
+Warn_0xa60c_Text,识别到驾驶员转向干预。
+Warn_0xa4e9_Text,故障：安全气囊
+Warn_0xa63a_Text,挂车辅助 (Trailer Assist)\n不可用。摄像头当前\n无视野。
+Warn_0xa5e1_Text,制动干预。车速过高。
+Warn_0xa5d9_Text,转向干预已中断。\n请接管方向盘。
+Warn_0xa7fc_Text,请在车道中间行驶。
+Warn_0xa27c_Text,请检查油箱盖。
+Warn_0xa634_Text,挂车辅助 (Trailer Assist)\n不可用。识别到自行车架。
+Warn_0xa067_Text,半自动驾驶辅助系统\n(Travel Assist) 已激活。
+Warn_0xa412_Text,请踩制动踏板。
+Warn_0xa29c_Text,离合器踏板：\n请检查操作情况。
+Warn_0xa5d3_Text,泊车转向辅助已中断。\n滑动车门未关好。
+Warn_0xa4ea_Text,安全气囊/安全带拉紧器\n已停用。
+Warn_0xa622_Text,牵引力控制系统 (TCS)/\n电子稳定程序 (ESC)\n已关闭。
+Warn_0xa5d6_Text,挂车：泊车转向辅助\n已中断。
+Warn_0xa07a_Text,请立即接管方向盘!
+Warn_0xa5c9_Text,挂车：泊车转向辅助\n已中断。
+Warn_0xa636_Text,挂车辅助 (Trailer Assist)\n不可用。识别到自行车架。
+Warn_0xa5cc_Text,泊车转向辅助不可用。\n请去维修站。
+Warn_0xa61a_Text,转向干预激活。\n请注意周围环境。
+Warn_0xa623_Text,挂车辅助 (Trailer Assist)\n当前不可用。请关闭驾驶员\n车门然后重新启动。
+Warn_0xa63c_Text,挂车辅助 (Trailer Assist)\n不可用。请清洁倒车摄像\n头然后重新启动。
+Warn_0xa5fe_Text,泊车转向辅助已中断。\n在此空气悬架高度下\n不可用。
+Warn_0xa430_Text,代客泊车功能已激活。
+Warn_0xa6ea_Text,紧急辅助系统：\n未检测到驾驶员操作。\n请接管方向盘!
+Warn_0xa5da_Text,请接管方向盘并\n手动结束泊车过程。
+Warn_0xa851_Text,无自适应巡航。
+Warn_0xa457_Text,请拔出钥匙。
+Warn_0xa279_Text,加注燃料准备工作\n已经完成。请加注。
+Warn_0xa27a_Text,要加注燃料请停车\n并关闭点火开关。
+Warn_0xa164_Text,自动变道已取消。\n请接管方向盘。
+Warn_0xa4d2_Text,P 挡仅在停车状态下可用。
+Warn_0xa5d5_Text,泊车转向辅助已中断。\n驾驶员干预转向。
+Warn_0xa632_Text,未识别到挂车。
+Warn_0xa655_Text,注意：请观察邻近的车道。
+Warn_0xa52a_Text,直接式胎压监测已停用。
+Warn_0xa833_Text,危险警告当前受限。
+Warn_0xa4bf_Text,发动机防盗锁止系统\n已激活。
+Warn_0xa5d4_Text,无法泊车。停车空间过小。
+Warn_0xa5b6_Text,请继续折叠式车顶操作。
+Warn_0xa857_Text,预防式乘员保护系统干预!
+Warn_0xa437_Text,注意：请观察后方\n路面情况及车辆。
+Warn_0xa4cd_Text,发动机自动启停系统\n已激活。
+Warn_0xa62d_Text,故障：挂车辅助\n(Trailer Assist)
+Warn_0xa5dd_Text,泊车转向辅助已中断。\n当前不可用。
+Warn_0xa83a_Text,S 挡在越野模式下不可用。
+Warn_0xa62f_Text,挂车辅助 (Trailer Assist)：\n请向前行驶。
+Warn_0xa6b4_Text,紧急呼叫功能已激活。
+Warn_0xa369_Text,超速。
+Warn_0xa656_Text,紧急制动启用。\n请接管车辆。
+Warn_0xa6ed_Text,紧急辅助系统：\n开始紧急停车。
+Warn_0xa69a_Text,请挂入 D 挡。
+Warn_0xa5b9_Text,请关闭车窗玻璃。
+Warn_0xa4c2_Text,请注意防盗安全锁止。\n请参阅用户手册!
+Warn_0xa27d_Text,要加注燃料，\n请再次按下按钮。
+Warn_0xa278_Text,正在准备加注燃料...
+Warn_0xa62c_Text,故障：挂车辅助\n(Trailer Assist)
+Warn_0xa6b3_Text,紧急呼叫功能已停用。
+Warn_0xa1ff_Text,紧急辅助系统：\n请接管方向盘!
+Warn_0xa61f_Text,请踩制动踏板。
+Warn_0xa654_Text,注意：请观察后方\n路面情况及车辆。
+Warn_0xa59a_Text,车速过高。
+Warn_0xa36e_Text,没有汽车钥匙。\n使用虚拟钥匙继续行驶。
+Warn_0xa066_Text,自适应车道导向已关闭。
+Warn_0xa633_Text,挂车辅助 (Trailer Assist)\n已中断。识别到自行车架。
+Warn_0xa7cb_Text,方向盘加热已关闭。
+Warn_0xa4ce_Text,仅可在停车状态下\n更换行驶方向。
+Warn_0xa251_Text,遥控钥匙在车内。
+Warn_0xa60d_Text,挂车辅助 (Trailer Assist)：\n制动干预。车速过高。
+Warn_0xa5c7_Text,泊车转向辅助：\n牵引力控制系统\n(TCS) 干预。
+Warn_0xa84e_Text,散热器风扇仍继续运转。
+Warn_0xa38a_Text,已选择带自动变道的\n半自动驾驶辅助系统\n(Travel Assist)。
+Warn_0xa167_Text,自动变道已取消。制动!
+Warn_0xa61c_Text,请减速行驶。
+Warn_0xa618_Text,挂车辅助 (Trailer Assist)\n不可用。未识别到挂车。
+Warn_0xa5c5_Text,泊车转向辅助结束。
+Warn_0xa5cd_Text,泊车转向辅助 (Park Assist)：\n汽车静止时间不足。
+Warn_0xa6de_Text,紧急辅助系统：\n请接管方向盘!
+Warn_0xa610_Text,要开始，请按信息娱乐系统\n中的挂车辅助(Trailer Assist)\n按钮。
+Warn_0xa779_Text,注意驾驶员侧后方道路\n情况!
+Warn_0xa5e0_Text,无法自动驶出车位。\n间距过小。
+Warn_0xa5a2_Text,折叠式车顶：温度过高。
+Warn_0xa62e_Text,已达到最大角度。请向前\n行驶并更正挂车位置。
+Warn_0xa4e2_Text,请踩制动踏板。
+Warn_0xa529_Text,直接式胎压监测已激活。
+Warn_0xa5f5_Text,泊车转向辅助在此空气\n悬架高度下不可用。
+Warn_0xa402_Text,请手动启动发动机。
+Warn_0xa60a_Text,挂车辅助 (Trailer Assist)\n仅限在停止状态和\n倒车挡时使用。
+Warn_0xa5ca_Text,泊车转向辅助已中断。\n超过时间限制。
+Warn_0xa5e7_Text,泊车转向辅助已中断。\n滑动车门未关好。
+Warn_0xa83d_Text,请接管方向盘。
+Warn_0xa0e9_Text,在下匝道上无法预见性\n调节。
+Warn_0xa0ec_Text,预见性调节功能已重新\n激活。
+Warn_0xa0ea_Text,在上匝道上无法预见性\n调节。
+Warn_0xa0ee_Text,前方有
+Warn_0xa0ef_Text,识别到
+Warn_0xa829_Text,紧急任务用车
+Warn_0xa06e_Text,紧急任务用车
+Warn_0xa06c_Text,紧急任务用车
+Warn_0xa832_Text,前方有紧急行驶状况
+Warn_0xa831_Text,前方有紧急行驶状况
+Warn_0xa80a_Text,前方有静止车辆
+Warn_0xa827_Text,前方有打滑危险
+Warn_0xa819_Text,前方有静止的\n紧急任务用车
+Warn_0xa81a_Text,前方施工
+Warn_0xa821_Text,前方有静止的\n紧急任务用车
+Warn_0xa80b_Text,前方有事故
+Warn_0xa817_Text,前方道路拥堵
+Warn_0xa826_Text,前方视野受限
+Warn_0xa809_Text,前方有车辆抛锚
+Warn_0xa82d_Text,紧急任务用车
+Warn_0xa06b_Text,紧急任务用车
+Warn_0xa824_Text,前方有多处危险位置
+Warn_0xa80c_Text,前方有车辆抛锚
+Warn_0xa816_Text,前方施工
+Warn_0xa06d_Text,紧急任务用车
+Warn_0xa80f_Text,前方有车辆抛锚
+Warn_0xa82e_Text,紧急任务用车
+Warn_0xa070_Text,前方有紧急行驶状况
+Warn_0xa80e_Text,前方有事故
+Warn_0xa811_Text,前方有事故
+Warn_0xa810_Text,前方有静止车辆
+Warn_0xa814_Text,前方有事故
+Warn_0xa81e_Text,前方施工
+Warn_0xa82f_Text,紧急任务用车
+Warn_0xa81b_Text,前方道路拥堵
+Warn_0xa81f_Text,前方道路拥堵
+Warn_0xa822_Text,前方施工
+Warn_0xa81d_Text,前方有静止的\n紧急任务用车
+Warn_0xa823_Text,前方道路拥堵
+Warn_0xa82b_Text,紧急任务用车
+Warn_0xa818_Text,前方有多处危险位置
+Warn_0xa828_Text,前方视野受限
+Warn_0xa82a_Text,紧急任务用车
+Warn_0xa813_Text,前方有静止车辆
+Warn_0xa815_Text,前方有静止的\n紧急任务用车
+Warn_0xa80d_Text,前方有静止车辆
+Warn_0xa825_Text,前方有打滑危险
+Warn_0xa830_Text,紧急任务用车
+Warn_0xa820_Text,前方有多处危险位置
+Warn_0xa81c_Text,前方有多处危险位置
+Warn_0xa812_Text,前方有车辆抛锚
+Warn_0xa06f_Text,前方有紧急行驶状况
+Warn_0xa82c_Text,紧急任务用车
+Warn_0xa46e_Text,系统识别到您在疲劳驾驶。
+Warn_0xa536_Text,燃气驱动模式当前不可用。\n请参阅用户手册。
+Warn_0xa532_Text,已切换至燃气驱动模式。
+Warn_0xa609_Text,遥控启动已激活。要启动，\n请踩制动踏板并用钥匙启动。
+Warn_0xa78e_Text,车辆处在可行驶状态。请关闭\n点火开关后再离开车辆。
+Warn_0xa2ff_Text,点火开关已关闭。\n请立即安全停车!
+Warn_0xa2d6_Text,请露天停放车辆。
+Warn_0xa008_Text,版权信息
+Warn_0xa169_Text,变道时请注意周围环境!
+Warn_0xa40f_Text,自动驻车功能 (Auto Hold)\n仅在车门关闭, 安全带扣紧\n且发动机工作时可以使用。
+Warn_0xa535_Text,汽油驱动模式当前不可用。\n请参阅用户手册。
+Warn_0xa36c_Text,未保存轮胎压力数据。
+Warn_0xa519_Text,请重新启动车辆。
+Warn_0xa6ba_Text,LC 起步控制程序已激活。
+Warn_0xa40c_Text,电子稳定程序 (ESC) 已激活。
+Warn_0xa6a6_Text,温度过低。无法起动车辆。\n请参阅用户手册。
+Warn_0xa491_Text,驻车灯已打开。
+Warn_0xa404_Text,要启动，请踩离合器踏板。
+Warn_0xa406_Text,要启动，请踩制动踏板。
+Warn_0xa84a_Text,要挂挡，请踩制动踏板。
+Warn_0xa405_Text,要启动，请选择 P/N 挡。
+Warn_0xa516_Text,需要发动机运转。
+Warn_0xa523_Text,故障：车速限速器
+Warn_0xa4cf_Text,无法启动。请拔下充电电缆。
+Warn_0xa649_Text,遥控启动已激活。要启动，\n请踩离合器踏板并用钥匙启动。
+Warn_0xa44d_Text,行人保护系统已触发。\n请去维修站。请参阅用户手册!
+Warn_0xa4d4_Text,请挂入 P 挡。
+Warn_0xa7dd_Text,某项安全相关功能已过期\n并已停用。请重新开通。
+Warn_0xa5c4_Text,遥控启动已激活。要启动，\n请踩离合器踏板并按启动按钮。
+Warn_0xa459_Text,要挂挡，请踩制动踏板并\n按换挡杆上的锁止按钮。
+Warn_0xa776_Text,要打开行李厢盖，\n请拉起驻车制动器。
+Warn_0xa608_Text,遥控启动已激活。要启动，\n请踩制动踏板并用钥匙启动。
+Warn_0xa4e8_Text,请检查汽车起动系统。
+Warn_0xa85a_Text,您的车辆可能会滑行。
+Warn_0xa443_Text,右侧行驶的大灯调节已激活。
+Warn_0xa4c7_Text,为了节省蓄电池电量，\n点火系统将自动关闭。
+Warn_0xa5bd_Text,遥控启动已激活。要启动，\n请踩制动踏板并按启动按钮。
+Warn_0xa46c_Text,左侧行驶的大灯调节已激活。
+Warn_0xa531_Text,切换到燃气驱动模式...
+Warn_0xa4b1_Text,牵引力控制系统 (TCS) 已激活。
+Warn_0xa2a3_Text,请注意已更新的续驶里程。\n车外温度已变化。
+Warn_0xa44e_Text,故障：行人保护系统
+Warn_0xa577_Text,能量回收已关闭。
+Warn_0xa517_Text,高电压蓄电池电量耗尽。\n请立即充电。
+Warn_0xa515_Text,无法启动。请拔下充电电缆。
+Warn_0xa4c3_Text,注意：发动机正在运行。
+Warn_0xa859_Text,您的车辆可能会滑行。
+Warn_0xa403_Text,发动机正在起动...
+Warn_0xa2d4_Text,发动机停转已阻止。
+Warn_0xa775_Text,要打开行李厢盖，请挂入 P 挡。
+Warn_0xa6fc_Text,要启动发动机，请踩制动踏板。
+Warn_0xa5ff_Text,遥控启动已激活。要启动，\n请踩离合器踏板并按启动按钮。
+Warn_0xa2d7_Text,请离开车辆并上锁。
+Warn_0xa4f0_Text,再次按点火启动按钮可以关闭\n发动机或点火开关。
+Warn_0xa5be_Text,遥控启动已激活。
+Warn_0xa4a8_Text,车灯将在 30 分钟后自动关闭。
+Warn_0xa5bf_Text,遥控启动已激活。要启动，\n请踩制动踏板并按启动按钮。
+Warn_0xa4be_Text,SAFE CP
+Warn_0xa36a_Text,识别到车轮更换。
+Warn_0xa533_Text,正在切换至汽油驱动模式...
+Warn_0xa2d5_Text,请防止溜车。
+Warn_0xa254_Text,轮胎压力数据已保存。
+Warn_0xa4b3_Text,电子稳定程序 (TCS/ESC)\n已自动激活。
+Warn_0xa4c0_Text,未识别到遥控钥匙。请将钥匙保持\n在规定区域! 请参阅用户手册。
+Warn_0xa888_Text,故障：加速度计/GPS 单圈计时器
+Warn_0xa277_Text,轮胎压力数据已保存。
+Warn_0xa64b_Text,遥控启动已激活。
+Warn_0xa64a_Text,遥控启动已激活。要启动，\n请踩离合器踏板并用钥匙启动。
+Warn_0xa423_Text,点火开关已接通。
+Warn_0xa549_Text,无法充电。充电桩失灵。\n请参阅用户手册。
+Warn_0xa524_Text,车速限速器：车速过高。
+Warn_0xa418_Text,要松开驻车制动器，\n请启动发动机。
+Warn_0xa4b7_Text,注意：驻车制动器未激活。
+Warn_0xa414_Text,请松开驻车制动器!
+Warn_0xa413_Text,驻车制动器：过于倾斜。\n请参阅用户手册。
+Warn_0xa474_Text,请松开驻车制动器!
+Warn_0xa847_Text,自动驻车功能 (Auto Hold)\n已停用。
+Warn_0xa4ed_Text,注意：驻车制动器未激活。
+Warn_0xa546_Text,已连接充电电缆。\n无法行驶。
+Warn_0xa419_Text,注意：驻车制动器已激活。
+Warn_0xa547_Text,电子驻车制动器：\n紧急制动激活...
+Warn_0xa5e3_Text,泊车转向辅助 (Park Assist)\n已中断。请接管车辆。
+Warn_0xa2b9_Text,泊车制动功能：踩制动踏板!
+Warn_0xa10c_Text,轮胎失压。
+Warn_0xa10b_Text,轮胎失压。
+Warn_0xa52d_Text,请检查轮胎压力。
+Warn_0xa247_Text,轮胎压力过低。
+Warn_0xa52f_Text,请检查轮胎压力。
+Warn_0xa10e_Text,轮胎失压。
+Warn_0xa244_Text,轮胎压力过低。
+Warn_0xa52c_Text,请检查轮胎压力。
+Warn_0xa52b_Text,请检查轮胎压力。
+Warn_0xa246_Text,轮胎压力过低。
+Warn_0xa52e_Text,请检查轮胎压力。
+Warn_0xa245_Text,轮胎压力过低。
+Warn_0xa10f_Text,轮胎失压。
+Warn_0xa248_Text,轮胎压力过低。
+Warn_0xa10d_Text,轮胎失压。
+Warn_0xa573_Text,能量回收 等级 1
+Warn_0xa575_Text,能量回收 等级 3
+Warn_0xa576_Text,能量回收 等级 4
+Warn_0xa5c1_Text,蓄电池电量维持模式
+Warn_0xa522_Text,自适应巡航 (ACC)
+Warn_0xa520_Text,车速限速器
+Warn_0xa5c2_Text,蓄电池充电模式
+Warn_0xa574_Text,能量回收 等级 2
+Warn_0xa4fa_Text,纯电动模式 (E-MODE)
+Warn_0xa5c3_Text,纯电动模式 (E-MODE)\n当前不可用。
+Warn_0xa521_Text,定速巡航装置
+Warn_0xa5c0_Text,混合动力
+Warn_0xa544_Text,OFF
+Warn_0xa49d_Text,经济行车提示：请挂入 D 挡。
+Warn_0xa4f8_Text,驾驶模式 经济
+Warn_0xa49a_Text,经济行车提示：空调已打开。\n请关闭车窗。
+Warn_0xa493_Text,经济行车提示：空气阻力。\n请关闭滑动天窗。
+Warn_0xa492_Text,经济行车提示：空气阻力。\n请关闭车窗。
+Warn_0xa4b9_Text,驾驶模式 竞赛
+Warn_0xa006_Text,按钮无功能。
+Warn_0xa498_Text,经济行车提示：要停止发动机，\n换至怠速挡并松开离合器踏板。
+Warn_0xa4f3_Text,驾驶模式 运动
+Warn_0xa4f1_Text,驾驶模式 舒适
+Warn_0xa539_Text,驾驶模式 "经济" 不可用。
+Warn_0xa51f_Text,驾驶模式 雪地
+Warn_0xa526_Text,驾驶模式 越野个性化：\n请注意设置。
+Warn_0xa499_Text,经济行车提示：请激活\n发动机自动启停系统。
+Warn_0xa016_Text,驾驶模式 经济+：车辆性能\n和舒适性严重受限。
+Warn_0xa53d_Text,驾驶模式 "标准" 不可用。
+Warn_0xa497_Text,经济行车提示：\n请注意挡位建议。
+Warn_0xa4f2_Text,驾驶模式 标准
+Warn_0xa53e_Text,"混合动力" 模式不可用。
+Warn_0xa4f9_Text,驾驶模式 经济：车辆性能\n和舒适性受限。
+Warn_0xa53f_Text,"蓄电池电量维持" 模式不可用。
+Warn_0xa49b_Text,经济行车提示：空调已打开。\n请关闭滑动天窗。
+Warn_0xa4f6_Text,驾驶模式 个性化：请注意设置。
+Warn_0xa496_Text,经济行车提示：发动机启动时\n请不要踩踏加速踏板。
+Warn_0xa537_Text,无法切换驾驶模式。
+Warn_0xa495_Text,经济行车提示：制动时，低于\n1300 rpm 后再使离合器分离。
+Warn_0xa494_Text,经济行车提示：空气阻力。\n请关闭车窗/滑动天窗。
+Warn_0xa525_Text,驾驶模式 标准
+Warn_0xa543_Text,"蓄电池充电" 模式不可用。
+Warn_0xa4a6_Text,经济行车提示：汽车静止时\n请避免发动机运转。
+Warn_0xa4f4_Text,驾驶模式 越野
+Warn_0xa530_Text,驾驶模式 自动
+Warn_0xa4f5_Text,驾驶模式 经济
+Warn_0x4010_Text,不支持语音操作。
+Warn_0xa4a5_Text,经济行车提示：折叠式车顶\n已打开。请关闭空调。
+Warn_0xa538_Text,混合动力模式：无法切换。
+Warn_0xa49e_Text,经济行车提示：汽车静止时\n请不要踩踏加速踏板。
+Warn_0xa49c_Text,经济行车提示：空调已打开。\n请关闭车窗/滑动天窗。
+Warn_0xbe07_Text,要保存轮胎压力数据，\n请按 OK 按钮。
+Warn_0xbe06_Text,轮胎压力
+Warn_0xbe09_Text,保养服务的数据已重置。
+Warn_0x4026_Text,是否确定重置车况检查\n服务的数据?
+Warn_0xbe08_Text,是否确定重置换油保养\n的数据?
+Warn_0xa293_Text,续驶里程：%2 %1
+Warn_0xa69b_Text,超速。
+Warn_0xa695_Text,超速。
+Warn_0xa379_Text_HGB_ohne_Wert,最高车速受限。
+Warn_0xa21a_Text,冬季轮胎：\n超过\n%0 %1。
+LIST_POPUPS_WARNING_WINTER_KM,** DUMMY **
+LIST_POPUPS_WARNING_WINTER_KM,km/h
+LIST_POPUPS_WARNING_WINTER_MILES,** DUMMY **
+LIST_POPUPS_WARNING_WINTER_MILES,mph
+Warn_Wiederanfahrhinweis_01,识别到前方行驶车辆
+Warn_Wiederanfahrhinweis_03,可以启动。
+Warn_Wiederanfahrhinweis_02,可以启动。
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

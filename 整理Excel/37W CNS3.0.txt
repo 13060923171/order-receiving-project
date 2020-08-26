@@ -1,0 +1,2076 @@
+37W CNS3.0,
+Property name,zh_CN\nText
+LANG.PO_ALERT_SYSTEM_TEMPERATURE_WARNING_SYSTEM.000.TextLabel,信息娱乐系统过热或过冷，即将关闭。
+LANG.PO_ALERT_SYSTEM_LOW_BATTERY_WARNING.TextLabel.text,注意：12 伏蓄电池电量低。\n请启动发动机或关闭信息娱乐系统。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a141.Labels,电驱动装置过热。\n请立即停车并参阅用户手册!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a653.Labels,挂车：驶出车位辅助/\n盲区监控不可用。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_MINUTE,mi/min
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31a.Labels,请检查左侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a326.Labels,请检查右侧制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a300.Labels,请检查左前转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES,mi
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68d.Labels,下车警示系统和驶出\n车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a29a.Labels,有溜车危险! 无法挂 P 挡。\n请使用驻车制动器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a33a.Labels,请检查左前静态弯道灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1a9.Labels,前部泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a743.Labels,车前测距监控系统\n可用性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a40a.Labels,电子稳定程序 (ESC) 已关闭。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.FAHRENHEIT,°F
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4a2.Labels,超速提醒当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a15b.Labels,系统正在更新... 请勿移动车辆!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a071.Labels,自动变道不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a141.Labels,电驱动装置过热。\n请立即停车并参阅用户手册!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1bd.Labels,充电插座失灵。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a326.Labels,请检查右侧制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68d.Labels,下车警示系统和驶出\n车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a410.Labels,故障：自动驻车功能 (Auto Hold)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a3ec.Labels,车道保持辅助系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a56f.Labels,制动助力系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a33a.Labels,请检查左前静态弯道灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a21c.Labels,故障：雨刮器。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.GRAVITY_OF_EARTH,g
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a320.Labels,请检查左侧制动灯/转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_GALLON_US_EQUIVALENT,mpg (美)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a071.Labels,自动变道不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7c6.Labels,故障：变速箱。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a51a.Labels,牵引会损坏电驱动装置。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a202.Labels,压力损失：左前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a347.Labels,重新起步提示功能不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a138.Labels,请检查冷却液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a645.Labels,距离下次换油保养\n还有 %0 %1\n距离下次车况检查\n还有 %4 %1
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30c.Labels,请检查右前驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a436.Labels,挂车：变道辅助系统\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a49f.Labels,故障：交通标志识别
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a410.Labels,故障：自动驻车功能 (Auto Hold)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a56f.Labels,制动助力系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0d4.Labels,
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a694.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a21c.Labels,故障：雨刮器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f6.Labels,左后车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a228.Labels,电驱动装置工作不正确。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a51a.Labels,牵引会损坏电驱动装置。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a202.Labels,压力损失：左前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_LITER,km/l
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30c.Labels,请检查右前驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a436.Labels,挂车：变道辅助系统\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7e6.Labels,请清洁传感器。\n预防式乘员保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a53a.Labels,请挂入 P 挡。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a49f.Labels,故障：交通标志识别
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a222.Labels,请加注燃料。\n续驶里程：${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a318.Labels,请检查左后转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a694.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a069.Labels,该区域没有可用数据。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a271.Labels,识别到压力损失。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a367.Labels,车速超过 80 km/h。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7fa.Labels,故障：驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32c.Labels,请检查后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a312.Labels,请检查右侧\n日间行车灯/近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a37b.Labels,全轮驱动功能失灵。\n可以继续行驶。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2ee.Labels,故障：侧面泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a408.Labels,故障：电子稳定程序 (ESC)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1af.Labels,请清洁后部泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7e6.Labels,请清洁传感器。\n预防式乘员保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a318.Labels,请检查左后转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a104.Labels,请检查冷却液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a069.Labels,该区域没有可用数据。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a271.Labels,识别到压力损失。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7fa.Labels,故障：驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CUBIC_METRE,m³
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32c.Labels,请检查后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a312.Labels,请检查右侧日间行车灯/近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a408.Labels,故障：电子稳定程序 (ESC)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a685.Labels,变道辅助系统和\n下车警示系统\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a104.Labels,请检查冷却液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a332.Labels,挂车：请检查制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f4.Labels,泊车雷达系统：\n请清洁传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a13e.Labels,故障：12 伏蓄电池。无法\n重新启动。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b5.Labels,请清洁左右两侧泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a43c.Labels,故障：车道保持辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a291.Labels,电子驻车制动器 (EPB)：\n运输模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a269.Labels,故障：天然气。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a685.Labels,变道辅助系统和\n下车警示系统\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.LITERS,l
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.TWELVE_HOURS,12h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a471.Labels,故障：防抱死制动系统 (ABS)\n/牵引力控制系统 (TCS)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a3e4.Labels,机油传感器损坏。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a332.Labels,挂车：请检查制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a13e.Labels,故障：12 伏蓄电池。\n无法重新启动。请去维修站!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a263.Labels,请让发动机暖机\n直至油温达到 ${0}。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a43c.Labels,故障：车道保持辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ec.Labels,泊车功能的显示\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c5.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7d2.Labels,故障：驶出车位辅助/盲区\n监控/下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e6.Labels,车辆只能在后桥抬起的情况\n下牵引。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a309.Labels,请检查左侧日间行车灯/驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a40d.Labels,ESC 越野：\n行驶稳定性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a471.Labels,故障：防抱死制动系统 (ABS)\n/牵引力控制系统 (TCS)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a144.Labels,故障：48 伏车载电网。\n请立即安全停车!\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a651.Labels,故障：驶出车位辅助/\n盲区监控
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31d.Labels,请检查左侧制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a442.Labels,故障：电子儿童安全锁
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e0.Labels,无法显示总里程。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7ec.Labels,泊车功能的显示\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f8.Labels,故障：全景摄像系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a234.Labels,请检查制动摩擦片。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a29d.Labels,离合器温度高。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7d2.Labels,故障：驶出车位辅助/盲区监控/\n下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a40d.Labels,ESC 越野：\n行驶稳定性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a628.Labels,挂车辅助 (Trailer Assist)\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a379.Labels,最高车速限制到 ${0}。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_CUBIC_METER,km/m³
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f2.Labels,泊车制动功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a324.Labels,请检查右侧倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.GALLONS_US,gal (美)
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.GALLONS_UK,gal (英)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68b.Labels,变道辅助和驶出车位辅助\n不可用。传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a373.Labels,故障：12 伏车载电网。\n请立即安全停车!\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f8.Labels,故障：全景摄像系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a671.Labels,车速限速器不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a234.Labels,请检查制动摩擦片。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1a7.Labels,后部泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a21f.Labels,车内未找到遥控钥匙。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a205.Labels,压力损失：右后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1bb.Labels,车辆未能充满电。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a503.Labels,请注意：尚未达到\n正常工作温度。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a468.Labels,预防式乘员保护系统：\n功能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4df.Labels,Departure warning deactivated. Production mode
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f2.Labels,泊车制动功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a324.Labels,请检查右侧倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a110.Labels,立即加注发动机机油!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a648.Labels,换油保养和车况检查\n已到期!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30f.Labels,请检查右侧雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68b.Labels,变道辅助和驶出车位辅助\n不可用。传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a373.Labels,故障：12 伏车载电网。\n请立即安全停车!\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a671.Labels,车速限速器不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a21f.Labels,车内未找到遥控钥匙。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a642.Labels,距离下次车况检查\n还有 ${0} 天
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a205.Labels,压力损失：右后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a691.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2cb.Labels,故障：紧急呼叫功能。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a136.Labels,故障：离合器。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30f.Labels,请检查右侧雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a434.Labels,故障：变道辅助系统
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.QUART_US,qt
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.QUART_UK,qt
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CUBIC_METERS_PER_100KM,m³/100km
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1c1.Labels,请为充电电缆使用紧急解锁。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f4.Labels,左前车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a130.Labels,请检查冷却液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a095.Labels,请立即给车辆充电!\n否则可能会损伤蓄电池。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32f.Labels,挂车：请检查\n右侧转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a642.Labels,距离下次车况检查\n还有 ${0} 天
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a315.Labels,请检查右侧\n近光灯/远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a691.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2cb.Labels,故障：紧急呼叫功能。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a434.Labels,故障：变道辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7e9.Labels,泊车功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a220.Labels,12 伏蓄电池电量不足。\n通过行驶充电。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.LITERS_PER_100KM,l/100km
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0bd.Labels,请给车辆充电。续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a46e.Labels,系统识别到您在疲劳驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1ac.Labels,左右两侧泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2d1.Labels,发动机运转时，\n副蓄电池放电。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32f.Labels,挂车：请检查右侧转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a315.Labels,请检查右侧近光灯/远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a101.Labels,故障：电子驻车制动器
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.TWENTY_FOUR_HOURS,24h
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOGRAMS,kg
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a220.Labels,12 伏蓄电池电量不足。\n通过行驶充电。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a107.Labels,助力转向器失灵。请去维修站!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a20b.Labels,变速箱处于紧急运行模式。\n无法挂入倒车挡。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a46e.Labels,系统识别到您在疲劳驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a689.Labels,变道辅助系统和\n驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a101.Labels,故障：\n电子驻车制动器
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0c3.Labels,请让维修人员检查 12 伏\n蓄电池。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a683.Labels,驶出车位辅助不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_KG,km/kg
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a330.Labels,挂车：请检查左侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a217.Labels,故障：动态大灯随动转向
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a266.Labels,请添加液化气。\n续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b3.Labels,请清洁泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ef.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a564.Labels,需要发动机运转。\n请踩离合器踏板。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a22b.Labels,车速超过 120 km/h。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a425.Labels,灯光辅助系统：\n请清洁前窗玻璃。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a307.Labels,请检查左侧\n日间行车灯/近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a683.Labels,驶出车位辅助不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a13b.Labels,请勿在斜坡上泊车。请去维修站!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a260.Labels,变速箱过热。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c9.Labels,副蓄电池电量不足。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a330.Labels,挂车：请检查左侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a217.Labels,故障：动态大灯随动转向
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31b.Labels,请检查左侧倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.POUNDS,lb
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e3.Labels,电驱动装置过热。请减速行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a301.Labels,请检查左前驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7ef.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c3.Labels,故障：前部泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a446.Labels,车前测距监控系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a307.Labels,请检查左侧\n日间行车灯/近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a40b.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_KILOWATTHOUR,mi/kWh
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.METERS,m
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31b.Labels,请检查左侧倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f5.Labels,故障：倒车摄像头
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a327.Labels,请检查右侧后雾灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a301.Labels,请检查左前驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6b1.Labels,紧急呼叫功能当前受限。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a625.Labels,挂车辅助不可用。\n摄像头无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68e.Labels,故障：下车警示系统和\n驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a376.Labels,请添加天然气。\n续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a446.Labels,车前测距监控系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a33b.Labels,请检查左侧大灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a40b.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a321.Labels,请检查右后转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a417.Labels,上坡起步辅助系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a370.Labels,故障：虚拟钥匙。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1be.Labels,请拔下充电电缆然后重新连接。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f5.Labels,故障：倒车摄像头
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a327.Labels,请检查右侧后雾灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a113.Labels,请加注 AdBlue (DEF)。\n无法启动发动机。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a6b1.Labels,紧急呼叫功能当前受限。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a209.Labels,变速箱处于紧急运行模式。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4a2.Labels,超速提醒当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68e.Labels,故障：下车警示系统和\n驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a411.Labels,故障：上坡起步辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a258.Labels,Dyno mode
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a33b.Labels,请检查左侧大灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a21d.Labels,故障：无钥匙系统。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a321.Labels,请检查右后转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7c7.Labels,故障：变速箱。\n可以继续慢速行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a51b.Labels,车辆无法再次起动。\n请立即前往维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a203.Labels,压力损失：右前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a26c.Labels,无法显示续驶里程。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a370.Labels,故障：移动钥匙。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOGRAMS_PER_100KM,kg/100km
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a501.Labels,12 伏蓄电池电量不足。\n通过行驶充电。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a139.Labels,故障：电子驻车制动器。\n请立即安全停车并参阅\n用户手册!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a411.Labels,故障：上坡起步辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7c1.Labels,故障：驻车锁。请使用驻车制动器。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a258.Labels,Dyno mode
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a21d.Labels,故障：无钥匙系统。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f7.Labels,右后车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CUBIC_YARDS,yd³
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a51b.Labels,无法重新启动。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a640.Labels,距离下次换油保养\n还有 ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a203.Labels,压力损失：右前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a26c.Labels,故障：续驶里程计算
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a501.Labels,12 伏蓄电池电量不足。\n通过行驶充电。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6a2.Labels,需要发动机运转。\n请退出纯电动模式。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a139.Labels,故障：电子驻车制动器。\n请立即停车并参阅\n用户手册!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f1.Labels,紧急辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7e7.Labels,由于挂车，预防式乘员\n保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a53b.Labels,故障：驾驶员车门接触开关
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a223.Labels,请降低机油油位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a319.Labels,请检查左侧制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a272.Labels,压力损失：左前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32d.Labels,请检查倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a313.Labels,请检查右侧\n日间行车灯/雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a37c.Labels,请让维修人员更换\n座椅占用识别系统\n的蓄电池。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2ef.Labels,故障：侧面泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a064.Labels,旅行辅助 (Travel Assist)\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a6f1.Labels,紧急辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7e7.Labels,识别到挂车。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a319.Labels,请检查左侧制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a272.Labels,压力损失：左前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a25d.Labels,故障：电驱动装置。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1aa.Labels,泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a76a.Labels,自适应巡航 (ACC)：预见性调节\n功能的车速限制过低。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32d.Labels,请检查倒车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a339.Labels,请检查右前静态弯道灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a313.Labels,请检查右侧日间行车灯/雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a064.Labels,半自动驾驶辅助系统 (Travel Assist)\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a292.Labels,电子驻车制动器：\n生产模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a686.Labels,故障：变道辅助系统和\n下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a5a4.Labels,故障：折叠式车顶。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a25d.Labels,故障：电驱动装置。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f5.Labels,泊车雷达系统：\n请清洁传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a13f.Labels,故障：12 伏蓄电池不充电。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a339.Labels,请检查右前静态弯道灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a43d.Labels,车道保持辅助系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a125.Labels,变速箱损坏。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a292.Labels,电子驻车制动器：\n生产模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a686.Labels,故障：变道辅助系统和\n下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a34d.Labels,空调工作不正确。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b0.Labels,请清洁前部泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a657.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a215.Labels,请检查汽车起动系统。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31e.Labels,请检查左侧后雾灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a13f.Labels,故障：12 伏蓄电池不充电。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a304.Labels,请检查左侧雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a36d.Labels,未找到虚拟钥匙。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a43d.Labels,车道保持辅助系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c6.Labels,散热器百叶板功能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7d3.Labels,驶出车位辅助/盲区\n监控/下车警示系统：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a40e.Labels,ESC 运动：\n行驶稳定性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2da.Labels,故障：电动汽车低速\n提示音。请谨慎驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a145.Labels,故障：48 伏车载电网。\n请勿启动车辆。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a657.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c0.Labels,故障：后部泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31e.Labels,请检查左侧后雾灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a10a.Labels,12 伏蓄电池不充电。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a304.Labels,请检查左侧雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a36d.Labels,未找到移动钥匙。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f9.Labels,故障：驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a235.Labels,发动机转速最高 ${0} rpm。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a29e.Labels,制动器过热。请挂入 D 挡。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a651.Labels,故障：驶出车位辅助/\n盲区监控
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a40e.Labels,ESC 运动：\n行驶稳定性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2da.Labels,故障：电动汽车低速\n提示音。请谨慎驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f3.Labels,故障：挂车辅助\n(Trailer Assist)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a10a.Labels,12 伏蓄电池不充电。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a325.Labels,请检查右侧后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4a0.Labels,交通标志识别：\n请清洁前窗玻璃。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68c.Labels,挂车：变道辅助和\n驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f9.Labels,故障：驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a672.Labels,定速巡航装置不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1a8.Labels,前部泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a206.Labels,故障：间接式胎压监测
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a26f.Labels,故障：电动汽车低速\n提示音。请谨慎驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1bc.Labels,当前只能紧急充电。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a504.Labels,故障：12 伏蓄电池诊断。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a255.Labels,故障：雨量传感器
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f3.Labels,故障：挂车辅助\n(Trailer Assist)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a325.Labels,请检查右侧后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4a0.Labels,交通标志识别：请清洁前窗玻璃。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68c.Labels,挂车：变道辅助和\n驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a672.Labels,定速巡航装置不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_HOUR,km/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a643.Labels,距离下次车况检查\n还有 ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a206.Labels,故障：间接式胎压监测
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30a.Labels,请检查左侧\n近光灯/远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a504.Labels,故障：12 伏蓄电池诊断。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a692.Labels,故障：变道辅助系统,\n下车警示系统和\n驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a137.Labels,发动机过热。请立即安全停车\n并参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a435.Labels,变道辅助系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a226.Labels,颗粒过滤器需要再生。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a275.Labels,压力损失：右后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1c2.Labels,Plug&Charge 不可用。\n请检查汽车充电合同。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f5.Labels,右前车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a131.Labels,故障：供电系统。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a643.Labels,距离下次车况检查\n还有 ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30a.Labels,请检查左侧近光灯/远光灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CUBIC_YARDS_PER_HOUR,yd³/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4ab.Labels,下车警示系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a692.Labels,故障：变道辅助系统,\n下车警示系统和\n驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6a0.Labels,请打开车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a435.Labels,变道辅助系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32a.Labels,请检查牌照灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a108.Labels,故障：方向盘锁止装置。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a310.Labels,请检查右侧\n侧面转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a275.Labels,压力损失：右后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2ec.Labels,故障：换挡杆。可以继续\n行驶。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a46f.Labels,故障：\n防抱死制动系统 (ABS)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1ad.Labels,左右两侧泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2d2.Labels,充电插头已插入。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4ab.Labels,下车警示系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a849.Labels,请检查 AdBlue (DEF)。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a102.Labels,请检查制动液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a6a0.Labels,请打开车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32a.Labels,请检查牌照灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_HOUR,mph
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.PERCENT,%
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a108.Labels,故障：方向盘锁止装置。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a20c.Labels,故障：换挡杆。只能以 D 挡\n继续行驶直到发动机关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a310.Labels,请检查右侧侧面转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a46f.Labels,故障：\n防抱死制动系统 (ABS)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a102.Labels,请检查制动液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a290.Labels,电子驻车制动器 (EPB)：\n试验台模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7b0.Labels,故障：方向盘加热
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.METERS_PER_SECOND,m/s
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a689.Labels,变道辅助和驶出车位辅助\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f2.Labels,泊车雷达系统：\n请清洁前部传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a13c.Labels,机油压力：请立即安全停车\n并参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a331.Labels,挂车：请检查右侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a122.Labels,发动机故障：请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a218.Labels,故障：大灯照明距离调节
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a267.Labels,故障：液化气。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a22c.Labels,故障：减震器
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a290.Labels,电子驻车制动器 (EPB)：\n试验台模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a27b.Labels,当前不能完成加注\n燃料的准备工作。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a308.Labels,请检查左侧\n日间行车灯/雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4ec.Labels,故障：组合仪表。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOWATTS,kW
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ea.Labels,泊车功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a218.Labels,故障：照明距离调节装置
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31c.Labels,请检查左侧后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7d0.Labels,燃气装置检查到期!\n天然气模式无法继续使用!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e4.Labels,电驱动装置过热。\n车辆性能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a302.Labels,请检查左侧近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a600.Labels,请加注 AdBlue (DEF)。\n续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a22c.Labels,故障：减震器
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c4.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_MINUTE,km/min
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a308.Labels,请检查左侧日间行车灯/雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4a9.Labels,下车警示系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4ec.Labels,故障：组合仪表。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a24c.Labels,故障：电力驱动系统。\n无法重新启动。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7ea.Labels,泊车功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31c.Labels,请检查左侧后雾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f6.Labels,故障：倒车摄像头
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a54a.Labels,不能快速充电。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a232.Labels,请加注 AdBlue(DEF)。\n ${0} 后不能启动发动机。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a29b.Labels,故障：换挡杆。只能使用\n两片换挡拨片换挡。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a328.Labels,请检查右侧\n转向信号灯/制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a302.Labels,请检查左侧近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68f.Labels,下车警示系统和\n驶出车位辅助：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.ACCELERATION,m/s²
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a377.Labels,制动器过热，请安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a675.Labels,自适应巡航 (ACC)：预见性\n调节功能在此国家不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a33c.Labels,请检查右侧大灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f0.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4a9.Labels,下车警示系统\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a322.Labels,请检查右侧制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2fe.Labels,故障：车轮松动警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1bf.Labels,请注意充电桩上的说明或使用\n其他充电桩。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a467.Labels,预防式乘员保护系统\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f6.Labels,故障：倒车摄像头
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a328.Labels,请检查右侧\n转向信号灯/制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a114.Labels,故障：AdBlue (DEF)。\n无法再启动发动机。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68f.Labels,下车警示系统和\n驶出车位辅助：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a377.Labels,制动器过热，请安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a675.Labels,自适应巡航 (ACC)：预见性\n调节功能在此国家不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a33c.Labels,请检查右侧大灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f0.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a348.Labels,重新起步提示功能不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a322.Labels,请检查右侧制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a646.Labels,请立即进行车况检查。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a204.Labels,压力损失：左后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30d.Labels,请检查右侧近光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a502.Labels,请让维修人员检查\n12 伏蓄电池。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a467.Labels,预防式乘员保护系统\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a253.Labels,故障：制动器。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a800.Labels,车门/发动机舱盖/行李厢盖\n未关闭。参见组合仪表中的\n本车状态。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2b5.Labels,故障：驱动系统。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.PSI,psi
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MINUTES,min
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a646.Labels,请立即进行车况检查。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30d.Labels,请检查右侧近光灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOWATTHOURS_PER_100MILES,kWh/100mi
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6a3.Labels,需要发动机长时间运转。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f2.Labels,故障：紧急辅助系统
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_KILOGRAM,mi/kg
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2b5.Labels,故障：驱动系统。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a093.Labels,您的车辆可能会滑行。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7e8.Labels,预防式乘员保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a53c.Labels,请挂入 P 挡后再离开车辆。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a224.Labels,请加注最多 ${0} 机油。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a273.Labels,压力损失：右前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a409.Labels,故障：防抱死制动系统\n(ABS)/电子稳定程序 (ESC)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32e.Labels,挂车：\n请检查左侧转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0f6.Labels,空调受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a314.Labels,请检查右侧\n日间行车灯/驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KPA,kPa
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a6f2.Labels,故障：紧急辅助系统\n(Emergency Assist)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7e8.Labels,请激活电子稳定程序(ESC)。\n预防式乘员保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a53c.Labels,请挂入 P 挡后再离开车辆。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a548.Labels,不能充电。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a20f.Labels,故障：电子驻车制动器
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a273.Labels,压力损失：右前侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_CUBIC_METER,mi/m³
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a409.Labels,故障：防抱死制动系统 (ABS)/\n电子稳定程序 (ESC)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1ab.Labels,泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2d0.Labels,请检查副蓄电池的连接。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOGRAMS_PER_HOUR,kg/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a314.Labels,请检查右侧日间行车灯/驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7cd.Labels,燃气装置检查到期!\n天然气模式在\n%5 %8 后不可用
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4b5.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOWATTHOURS,kWh
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a363.Labels,全轮驱动受限。请调整驾驶方式。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a687.Labels,变道辅助系统和\n下车警示系统：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a76a.Labels,自适应巡航 (ACC)：预见性\n调节功能的车速限制过低。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a20f.Labels,故障：电子驻车制动器 (EPB)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2a7.Labels,请检查汽车起动系统。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f6.Labels,泊车雷达系统：请清洁\n侧面传感器并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a681.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a777.Labels,故障：车辆能量系统。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a424.Labels,故障：灯光辅助系统
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS_PER_KILOWATTHOUR,km/kWh
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a687.Labels,变道辅助系统和\n下车警示系统：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1cb.Labels,助力转向器工作不正确。\n可以继续行驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f0.Labels,泊车雷达系统：\n请清洁后部传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a34e.Labels,有损害健康的危险! 二氧化碳\n浓度高。请打开车窗!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a13a.Labels,故障：电子驻车制动器。\n请使用驻车制动器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b1.Labels,请清洁前部泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ed.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2a7.Labels,请检查汽车起动系统。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31f.Labels,请检查左侧\n转向信号灯/制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.BAR,bar
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e7.Labels,无法计算车速。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a305.Labels,请检查左侧\n侧面转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a681.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c7.Labels,请更换 12 伏蓄电池。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a424.Labels,故障：灯光辅助系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a652.Labels,驶出车位辅助/\n盲区监控不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a13a.Labels,故障：电子驻车制动器。\n请使用驻车制动器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a146.Labels,故障：驱动系统。请安全停车。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7ed.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a658.Labels,定速巡航当前不可用。\n制动器温度高。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c1.Labels,故障：后部泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a31f.Labels,请检查左侧\n转向信号灯/制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.LITERS_PER_HOUR,l/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7d3.Labels,驶出车位辅助/盲区\n监控/下车警示系统：\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a742.Labels,车前测距监控系统不可用。\n电子稳定程序(ESC)已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a305.Labels,请检查左侧\n侧面转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a15a.Labels,请检查冷却液液位。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.ffff.Labels,耗电量过高，目前\n剩余电量有限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1d1.Labels,有损害健康的危险! 二氧化碳浓度\n过高。请立即打开全部车窗!
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_GALLON_US,mpg (美)
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_GALLON_UK,mpg (英)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2c7.Labels,请更换 12 伏蓄电池。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a140.Labels,故障：电驱动装置。\n请立即停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a29f.Labels,制动器过热。\n请挂挡并注意挡位建议。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a652.Labels,驶出车位辅助/\n盲区监控不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_POUND_UK,mi/lb
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a59d.Labels,折叠式车顶不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a146.Labels,故障：驱动系统。请安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f4.Labels,故障：挂车辅助\n(Trailer Assist)
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a742.Labels,车前测距监控系统\n不可用。电子稳定程序\n(ESC) 已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4a1.Labels,交通标志识别当前受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a415.Labels,驻车制动器：检测模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a140.Labels,故障：电驱动装置。\n请立即停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6ef.Labels,紧急辅助系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a320.Labels,请检查左侧\n制动灯/转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a858.Labels,中央门锁控制不可用。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a0ed.Labels,预见性调节功能\n在此国家不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a3eb.Labels,车道保持辅助系统不可用。\n摄像头无视野。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a56e.Labels,车道保持辅助系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a256.Labels,故障：行车灯自动控制
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f4.Labels,故障：挂车辅助\n(Trailer Assist)
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.GALLONS_PER_HOUR,gal/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4a1.Labels,交通标志识别当前受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a415.Labels,驻车制动器：检测模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a201.Labels,识别到压力损失。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a26a.Labels,续驶里程： ${0}\n舒适性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4f0.Labels,再次按启动按键可以关闭车辆或点火开关。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a6ef.Labels,紧急辅助系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a644.Labels,请在服务概览中检查换油\n保养和车况检查的日期。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0ed.Labels,预见性调节功能\n在此国家不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a207.Labels,助力转向器工作不正确。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30b.Labels,请检查右前转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a56e.Labels,车道保持辅助系统已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a693.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助：传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a227.Labels,请加注清洗液。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a201.Labels,识别到压力损失。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1c3.Labels,Plug&Charge 在此充电桩上不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a23b.Labels,车辆性能受限。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30b.Labels,请检查右前转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4ac.Labels,下车警示系统不可用。\n识别到挂车。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a221.Labels,故障：燃料加注系统。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a317.Labels,故障：车辆照明
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a693.Labels,下车警示系统/变道\n辅助系统/驶出车位\n辅助：传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6a1.Labels,下次启动时发动机\n自动运行。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0be.Labels,无剩余续驶里程。\n立即为车辆充电。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a227.Labels,请加注清洗液。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a32b.Labels,请检查高位制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a311.Labels,请检查右侧日间行车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a37a.Labels,最高车速限制到 ${0}。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2ed.Labels,P 按钮功能无效。发动机\n关闭时自动激活驻车锁。\n请去维修站!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a407.Labels,制动助力系统失效。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a23b.Labels,车辆性能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1ae.Labels,请清洁后部泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_SECOND,mi/s
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4ac.Labels,下车警示系统不可用。\n识别到挂车。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a317.Labels,故障：车辆照明
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a103.Labels,发动机过热。请立即安全\n停车并参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a270.Labels,故障：间接式胎压监测
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a401.Labels,故障：发动机自动启停系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32b.Labels,请检查高位制动灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a311.Labels,请检查右侧日间行车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a407.Labels,制动助力系统失效。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a684.Labels,挂车：驶出车位辅助\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a540.Labels,车前测距监控系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a291.Labels,电子驻车制动器 (EPB)：\n运输模式
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1ce.Labels,只能泊车! 请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f3.Labels,泊车雷达系统：\n请清洁前部传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a3e9.Labels,车道保持辅助系统当前不可用。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a13d.Labels,12 伏蓄电池不充电。\n请立即安全停车!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b4.Labels,请清洁左右两侧泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a43b.Labels,车道保持辅助系统\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a123.Labels,变速箱过热。请立即停车\n并参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.YARDS,yd
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a268.Labels,请添加天然气。\n续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a684.Labels,挂车：驶出车位辅助\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a470.Labels,故障：牵引力控制
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a3e3.Labels,请降低机油油位。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a540.Labels,车前测距监控系统不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a331.Labels,挂车：请检查右侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a213.Labels,请检查牵引装置的\n锁止装置。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a309.Labels,请检查左侧\n日间行车灯/驻车示宽灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a262.Labels,请检查制动摩擦片。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a43b.Labels,车道保持辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7eb.Labels,泊车功能的显示\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31d.Labels,请检查左侧制动灯/尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7d1.Labels,驶出车位辅助/盲区监控/\n下车警示系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e5.Labels,车辆只能在前桥抬起的情况下\n牵引。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a303.Labels,请检查左侧远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a239.Labels,故障：电子驻车制动器\n(EPB)。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a650.Labels,驶出车位辅助/盲区监控\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a213.Labels,请检查挂车连接器锁止装置。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7eb.Labels,泊车功能的显示\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f7.Labels,故障：全景摄像系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a233.Labels,故障：AdBlue (DEF)。\n ${0} 后不能启动发动机。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7d1.Labels,驶出车位辅助/盲区监控/\n下车警示系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a329.Labels,请检查右侧\n制动灯/转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a303.Labels,请检查左侧远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a627.Labels,倒车摄像头无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a378.Labels,制动器过热。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a676.Labels,自适应巡航 (ACC)：预见性\n调节功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a239.Labels,故障：电子驻车制动器\n(EPB)。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a650.Labels,驶出车位辅助/盲区监控\n当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7f1.Labels,泊车制动功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a323.Labels,请检查右侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a68a.Labels,故障：变道辅助系统\n和驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a372.Labels,故障：12 伏车载电网。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a468.Labels,预防式乘员保护系统受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a259.Labels,驾驶辅助系统按钮故障。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f7.Labels,故障：全景摄像系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1a6.Labels,后部泊车雷达系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a329.Labels,请检查右侧制动灯/转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a115.Labels,电驱动装置失灵。请立即\n安全停车并参阅用户手册!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a21e.Labels,请更换遥控钥匙电池。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a378.Labels,制动器过热。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a676.Labels,自适应巡航 (ACC)：\n预见性调节功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7f1.Labels,泊车制动功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a323.Labels,请检查右侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a647.Labels,换油保养已到期!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a30e.Labels,请检查右侧远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a68a.Labels,故障：变道辅助系统\n和驶出车位辅助
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a372.Labels,故障：12 伏车载电网。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a21e.Labels,请更换遥控钥匙电池。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2b6.Labels,故障：驱动系统。\n车辆性能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a439.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILLIMETERS,mm
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a641.Labels,距离下次换油保养\n还有 ${0} 天
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a204.Labels,压力损失：左后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a690.Labels,下车警示系统/\n驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a253.Labels,故障：制动器。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2ca.Labels,紧急呼叫功能受限。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.MILES_PER_CUBIC_YARD,mi/yd³
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a30e.Labels,请检查右侧远光灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a433.Labels,变道辅助系统当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6a4.Labels,只能电动行驶。\n车辆性能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1c0.Labels,充电电缆过热，还不能解锁。\n请先冷却。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a6f3.Labels,车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2b6.Labels,故障：驱动系统。车辆性能受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a094.Labels,您的车辆可能会滑行。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a439.Labels,驶出车位辅助当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7e9.Labels,泊车功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a225.Labels,机油传感器损坏。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.POUNDS_PER_HOUR,lb/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a274.Labels,压力损失：左后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a690.Labels,下车警示系统/\n驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a2ca.Labels,紧急呼叫功能受限。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a433.Labels,变道辅助系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a4aa.Labels,故障：下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a106.Labels,故障：机油压力。\n请立即停车\n并参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CUBIC_METERS_PER_HOUR,m³/h
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0bc.Labels,请关闭驾驶员车门并系好\n安全带。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a46d.Labels,系统识别到您在疲劳驾驶。\n请停车休息。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a32e.Labels,挂车：请检查左侧转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a274.Labels,压力损失：左后侧轮胎
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a37d.Labels,高电压蓄电池：火灾危险! 确保\n交通安全的情况下立即停车并\n撤离。向专业救援人员求助!
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a100.Labels,故障：制动器。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a50e.Labels,车前测距监控系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOWATTHOURS_PER_100KM,kWh/100km
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a4aa.Labels,故障：下车警示系统
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.CELSIUS,°C
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ce.Labels,燃气装置检查到期!\n天然气模式在\n%5 %8 后不可用
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a20a.Labels,故障：变速箱。可以有限制\n地继续行驶。请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a46d.Labels,系统识别到您在疲劳驾驶。\n请停车休息。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a688.Labels,变道辅助系统和\n下车警示系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a100.Labels,故障：制动器。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a50e.Labels,车前测距监控系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f7.Labels,泊车雷达系统：请清洁\n侧面传感器并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a0e8.Labels,预见性调节功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a682.Labels,驶出车位辅助不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2a2.Labels,请加注燃料。\n续驶里程： ${0}
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a425.Labels,灯光辅助系统：\n请清洁前窗玻璃。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a216.Labels,方向盘锁止装置损坏。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a688.Labels,变道辅助系统和\n下车警示系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a78c.Labels,请挂入 P 挡。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2f1.Labels,泊车雷达系统：\n请清洁后部传感器，\n并安全驾驶。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a265.Labels,燃油滤清器中有水。\n请参阅用户手册。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1b2.Labels,请清洁泊车传感器。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7ee.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a563.Labels,故障：变速箱。\n车速受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a7d4.Labels,识别到挂车：\n驶出车位辅助/盲区监控/\n下车警示系统不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e8.Labels,预见性调节功能当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a306.Labels,请检查左侧日间行车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a682.Labels,驶出车位辅助不可用。\n传感器无视野。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c8.Labels,需要发动机运转。\n请勿关闭发动机。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a653.Labels,挂车：驶出车位辅助/\n盲区监控不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a216.Labels,方向盘锁止装置损坏。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a31a.Labels,请检查左侧尾灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a0e2.Labels,交通标志识别当前不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a300.Labels,请检查左前转向信号灯。
+LANG.CAR_GOODBYE_SCREEN.Units.Warning.KILOMETERS,km
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a147.Labels,故障：散热系统。\n请去维修站。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7ee.Labels,故障：泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a659.Labels,定速巡航当前不可用。\n制动器温度高。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a2c2.Labels,故障：前部泊车雷达系统
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a7d4.Labels,驶出车位辅助/盲区\n监控/下车警示系统\n不可用。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a743.Labels,车前测距监控系统\n可用性受限。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a306.Labels,请检查左侧日间行车灯。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.a40a.Labels,电子稳定程序 (ESC)\n已关闭。
+LANG.CAR_GOODBYE_SCREEN.Warn_TextDEnglish.1a1d2.Labels,全轮驱动当前受限。请调整驾驶方式。
+LANG.CARSETUP_HUD.ListItem.Title_Content_WarningMessages,本车状态
+LANG.CARSETUP_TIRES.ListItem.Title_SnowTireWarning,冬季轮胎报警设置
+LANG.CARSETUP_TIRES.ListItem.SnowTireWarning.Label,超速提醒
+LANG.CARSETUP_TIRES.ListItem-SpeedWarningThreshold.Value,${0} ${1}
+LANG.CAR_STATUS.Warn_TextDEnglish.a130.Labels,请检查冷却液液位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a226.Labels,颗粒滤清器需要再生。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a689.Labels,变道辅助和驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a275.Labels,压力损失：右后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b3.Labels,请清洁泊车传感器。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4ab.Labels,下车警示系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a220.Labels,12 伏蓄电池电量不足。通过行驶充电。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a683.Labels,驶出车位辅助不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a330.Labels,挂车：请检查左侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a32a.Labels,请检查牌照灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a217.Labels,故障：动态大灯随动转向
+LANG.CAR_STATUS.Warn_TextDEnglish.a310.Labels,请检查右侧侧面转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2ec.Labels,故障：换挡杆。可以继续行驶。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7ef.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2d2.Labels,充电插头已插入。
+LANG.CAR_STATUS.Warn_TextDEnglish.a102.Labels,请检查制动液液位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a20b.Labels,变速箱处于紧急运行模式。无法挂入倒车挡。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a307.Labels,请检查左侧日间行车灯/近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a689.Labels,变道辅助系统和驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31b.Labels,请检查左侧倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a301.Labels,请检查左前驻车示宽灯。
+LANG.CAR_STATUS.Units.Warning.PERCENT,%
+LANG.CAR_STATUS.Warn_TextDEnglish.a683.Labels,驶出车位辅助不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a446.Labels,车前测距监控系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a330.Labels,挂车：请检查左侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a40b.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f2.Labels,泊车雷达系统：\n请清洁前部传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a13c.Labels,机油压力：请立即安全停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a122.Labels,发动机故障：请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4a9.Labels,下车警示系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a218.Labels,故障：大灯照明距离调节
+LANG.CAR_STATUS.Warn_TextDEnglish.1a6b1.Labels,紧急呼叫功能当前受限。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a267.Labels,故障：液化气。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a307.Labels,请检查左侧日间行车灯/近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f6.Labels,故障：倒车摄像头
+LANG.CAR_STATUS.Warn_TextDEnglish.a22c.Labels,故障：减震器
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c9.Labels,副蓄电池电量不足。
+LANG.CAR_STATUS.Warn_TextDEnglish.a27b.Labels,当前不能完成加注燃料的准备工作。\n请参阅用户手册!
+LANG.CAR_STATUS.Warn_TextDEnglish.a4ec.Labels,故障：组合仪表。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f0.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ea.Labels,泊车功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a322.Labels,请检查右侧制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c3.Labels,故障：前部泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a446.Labels,车前测距监控系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7d0.Labels,燃气装置检查到期! 天然气模式无法继续使用!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a411.Labels,故障：上坡起步辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a40b.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a258.Labels,Dyno mode
+LANG.CAR_STATUS.Warn_TextDEnglish.a600.Labels,请加注 AdBlue (DEF)。\n续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a21d.Labels,故障：无钥匙系统。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a51b.Labels,车辆无法再次起动。\n请立即前往维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a203.Labels,压力损失：右前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.1a26c.Labels,无法计算续驶里程。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4a9.Labels,下车警示系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6b1.Labels,紧急呼叫功能当前受限。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a501.Labels,12 伏蓄电池电量不足。通过行驶充电。
+LANG.CAR_STATUS.Warn_TextDEnglish.a24c.Labels,故障：电驱动装置。无法重新启动。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f6.Labels,故障：倒车摄像头
+LANG.CAR_STATUS.Warn_TextDEnglish.a54a.Labels,不能快速充电。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a646.Labels,请立即进行车况检查。
+LANG.CAR_STATUS.Warn_TextDEnglish.a232.Labels,请加注 AdBlue(DEF)。\n${0} 后不能启动发动机。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30d.Labels,请检查右侧近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a29b.Labels,故障：换挡杆。只能使用两片换挡拨片换挡。\n请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a328.Labels,请检查右侧\n转向信号灯/制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68f.Labels,下车警示系统和驶出车位辅助：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a377.Labels,制动器过热，请安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a675.Labels,自适应巡航 (ACC)：\n预见性调节功能在此国家不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2b5.Labels,故障：驱动系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a093.Labels,您的车辆可能会滑行。
+LANG.CAR_STATUS.Warn_TextDEnglish.a33c.Labels,请检查右侧大灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f0.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a322.Labels,请检查右侧制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a209.Labels,变速箱处于紧急运行模式。可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a258.Labels,Dyno mode
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7e7.Labels,由于挂车，预防式乘员保护系统\n受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a21d.Labels,故障：无钥匙系统。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a319.Labels,请检查左侧制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a272.Labels,压力损失：左前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a7c7.Labels,故障：变速箱。可以继续慢速行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a51b.Labels,车辆无法再次起动。\n请立即前往维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a203.Labels,压力损失：右前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a26c.Labels,无法显示续驶里程。
+LANG.CAR_STATUS.Units.Warning.POUNDS,lb
+LANG.CAR_STATUS.Warn_TextDEnglish.a501.Labels,12 伏蓄电池电量不足。通过行驶充电。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1aa.Labels,泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32d.Labels,请检查倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a348.Labels,重新起步提示功能不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a313.Labels,请检查右侧日间行车灯/雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a646.Labels,请立即进行车况检查。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a064.Labels,旅行辅助 (Travel Assist) 当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a30d.Labels,请检查右侧近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a409.Labels,故障：防抱死制动系统 (ABS)/电子稳定程序 (ESC)
+LANG.CAR_STATUS.Warn_TextDEnglish.a7c1.Labels,故障：驻车锁。\n请使用驻车制动器。请去维修站!
+LANG.CAR_STATUS.Units.Warning.METERS,m
+LANG.CAR_STATUS.Warn_TextDEnglish.a2b5.Labels,故障：驱动系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a640.Labels,距离下次换油保养还有 ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a76a.Labels,自适应巡航 (ACC)：预见性调节功能的\n车速限制过低。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a339.Labels,请检查右前静态弯道灯。
+LANG.CAR_STATUS.Units.Warning.MINUTES,min
+LANG.CAR_STATUS.Warn_TextDEnglish.a319.Labels,请检查左侧制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6a3.Labels,需要发动机长时间运转。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a686.Labels,故障：变道辅助系统和下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a34d.Labels,空调工作不正确。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f2.Labels,故障：紧急辅助系统 (Emergency Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.a32d.Labels,请检查倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a313.Labels,请检查右侧日间行车灯/雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a37c.Labels,请让维修人员更换\n座椅占用识别系统\n的蓄电池。\n请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2ef.Labels,故障：侧面泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a064.Labels,旅行辅助 (Travel Assist) 当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a13f.Labels,故障：12 伏蓄电池不充电。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a409.Labels,故障：防抱死制动系统 (ABS)/电子稳定程序 (ESC)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a43d.Labels,车道保持辅助系统不可用。传感器无视野。
+LANG.CAR_STATUS.Units.Warning.KILOWATTHOURS_PER_100MILES,kWh/100mi
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e7.Labels,无法计算车速。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a76a.Labels,自适应巡航 (ACC)：\n预见性调节功能的车速限制过低。
+LANG.CAR_STATUS.Warn_TextDEnglish.a548.Labels,不能充电。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a20f.Labels,故障：电子驻车制动器 (EPB)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7ed.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a658.Labels,定速巡航当前不可用。制动器温度高。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31f.Labels,请检查左侧转向信号灯/制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7d3.Labels,驶出车位辅助/盲区监控/下车警示系统：\n传感器无视野。
+LANG.CAR_STATUS.Units.Warning.MILES,mi
+LANG.CAR_STATUS.Warn_TextDEnglish.a7cd.Labels,燃气装置检查到期!\n天然气模式在 ${0} 天后不可用
+LANG.CAR_STATUS.Warn_TextDEnglish.a4b5.Labels,牵引力控制系统 (TCS) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a305.Labels,请检查左侧侧面转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a40e.Labels,ESC 运动：行驶稳定性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1d1.Labels,有损害健康的危险! 二氧化碳浓度\n过高。请立即打开全部车窗!
+LANG.CAR_STATUS.Warn_TextDEnglish.a13f.Labels,故障：12 伏蓄电池不充电。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a652.Labels,驶出车位辅助/盲区监控不可用。\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a43d.Labels,车道保持辅助系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a125.Labels,变速箱损坏。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a681.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f9.Labels,故障：驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1a8.Labels,前部泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a215.Labels,请检查汽车起动系统。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1bc.Labels,当前只能紧急充电。请参阅用户\n手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f3.Labels,故障：挂车辅助 (Trailer Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ed.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a325.Labels,请检查右侧后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31f.Labels,请检查左侧转向信号灯/制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4a0.Labels,交通标志识别：请清洁前窗玻璃。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7d3.Labels,驶出车位辅助/盲区监控/下车警示系统：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68c.Labels,挂车：变道辅助和\n驶出车位辅助不可用。
+LANG.CAR_STATUS.Units.Warning.MILLIMETERS,mm
+LANG.CAR_STATUS.Warn_TextDEnglish.a305.Labels,请检查左侧侧面转向信号灯。
+LANG.CAR_STATUS.Units.Warning.TWELVE_HOURS,12h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a672.Labels,定速巡航装置不可用。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c7.Labels,请更换 12 伏蓄电池。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a652.Labels,驶出车位辅助/盲区监控不可用。\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a415.Labels,驻车制动器：检测模式
+LANG.CAR_STATUS.Warn_TextDEnglish.1a6ef.Labels,紧急辅助系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a146.Labels,故障：驱动系统。请安全停车。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c1.Labels,故障：后部泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f9.Labels,故障：驶出车位辅助
+LANG.CAR_STATUS.Units.Warning.LITERS_PER_HOUR,l/h
+LANG.CAR_STATUS.Warn_TextDEnglish.a235.Labels,发动机转速最高 ${0} rpm。
+LANG.CAR_STATUS.Warn_TextDEnglish.a29e.Labels,制动器过热。请挂入 D 挡。
+LANG.CAR_STATUS.Warn_TextDEnglish.a742.Labels,车前测距监控系统不可用。电子稳定程序 (ESC) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a15a.Labels,请检查冷却液液位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1c2.Labels,Plug&Charge 不可用。请检查汽车充电合同。
+LANG.CAR_STATUS.Warn_TextDEnglish.a140.Labels,故障：电驱动装置。请立即停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f3.Labels,故障：挂车辅助(Trailer Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a643.Labels,距离下次车况检查还有 ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30a.Labels,请检查左侧近光灯/远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a325.Labels,请检查右侧后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a692.Labels,故障：\n变道辅助系统,下车警示系统和驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.a4a0.Labels,交通标志识别：请清洁前窗玻璃。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68c.Labels,挂车：变道辅助和驶出车位辅助不可用。
+LANG.CAR_STATUS.Units.Warning.CUBIC_YARDS_PER_HOUR,yd³/h
+LANG.CAR_STATUS.Warn_TextDEnglish.a672.Labels,定速巡航装置不可用。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a435.Labels,变道辅助系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a415.Labels,驻车制动器：检测模式
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0be.Labels,无剩余续驶里程。立即为车辆充电。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6ef.Labels,紧急辅助系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a227.Labels,请加注清洗液。
+LANG.CAR_STATUS.Warn_TextDEnglish.a858.Labels,中央门锁控制不可用。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a0ed.Labels,预见性调节功能在此国家不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a6a0.Labels,请打开车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a3eb.Labels,车道保持辅助系统不可用。摄像头无视野。\n请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a23b.Labels,车辆性能受限。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a56e.Labels,车道保持辅助系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1ae.Labels,请清洁后部泊车传感器。
+LANG.CAR_STATUS.Warn_TextDEnglish.a256.Labels,故障：行车灯自动控制
+LANG.CAR_STATUS.Units.Warning.MILES_PER_SECOND,mi/s
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4ac.Labels,下车警示系统不可用。识别到挂车。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a108.Labels,故障：方向盘锁止装置。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a270.Labels,故障：间接式胎压监测
+LANG.CAR_STATUS.Warn_TextDEnglish.a201.Labels,识别到压力损失。
+LANG.CAR_STATUS.Warn_TextDEnglish.a26a.Labels,续驶里程：${0}\n舒适性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a46f.Labels,故障：防抱死制动系统 (ABS)
+LANG.CAR_STATUS.Warn_TextDEnglish.a137.Labels,发动机过热。\n请立即停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a311.Labels,请检查右侧日间行车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a102.Labels,请检查制动液液位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a435.Labels,变道辅助系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f5.Labels,右前车轮螺栓松动。请检查所有车轮。
+LANG.CAR_STATUS.Warn_TextDEnglish.a131.Labels,故障：供电系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a227.Labels,请加注清洗液。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1ce.Labels,只能泊车! 请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6a0.Labels,请打开车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b4.Labels,请清洁左右两侧泊车传感器。
+LANG.CAR_STATUS.Warn_TextDEnglish.a23b.Labels,车辆性能受限。\n请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a290.Labels,电子驻车制动器 (EPB)：试验台模式
+LANG.CAR_STATUS.Warn_TextDEnglish.a4ac.Labels,下车警示系统不可用。识别到挂车。
+LANG.CAR_STATUS.Warn_TextDEnglish.a221.Labels,故障：燃料加注系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a317.Labels,故障：车辆照明
+LANG.CAR_STATUS.Warn_TextDEnglish.a108.Labels,故障：方向盘锁止装置。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a684.Labels,挂车：驶出车位辅助\n不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a46f.Labels,故障：防抱死制动系统 (ABS)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a331.Labels,挂车：请检查右侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a32b.Labels,请检查高位制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a218.Labels,故障：大灯照明距离调节
+LANG.CAR_STATUS.Units.Warning.PSI,psi
+LANG.CAR_STATUS.Warn_TextDEnglish.a311.Labels,请检查右侧日间行车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a37a.Labels,最高车速限制到 ${0}。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e4.Labels,电驱动装置过热。车辆性能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a849.Labels,请检查 AdBlue (DEF)。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a43b.Labels,车道保持辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a22c.Labels,故障：减振器
+LANG.CAR_STATUS.Warn_TextDEnglish.a20c.Labels,故障：换挡杆。\n只能以 D 挡继续行驶直到发动机关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a308.Labels,请检查左侧日间行车灯/雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a401.Labels,故障：发动机自动启停系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4ec.Labels,故障：组合仪表。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7ea.Labels,泊车功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31c.Labels,请检查左侧后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a302.Labels,请检查左侧近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a290.Labels,电子驻车制动器 (EPB)：试验台模式
+LANG.CAR_STATUS.Warn_TextDEnglish.a7b0.Labels,故障：方向盘加热
+LANG.CAR_STATUS.Units.Warning.KPA,kPa
+LANG.CAR_STATUS.Warn_TextDEnglish.a684.Labels,挂车：驶出车位辅助不可用。
+LANG.CAR_STATUS.Units.Warning.KILOGRAMS_PER_100KM,kg/100km
+LANG.CAR_STATUS.Warn_TextDEnglish.a331.Labels,挂车：请检查右侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f3.Labels,泊车雷达系统：\n请清洁前部传感器，并安全驾驶。
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_KILOWATTHOUR,km/kWh
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1bf.Labels,请注意充电桩上的说明或使用其他充电桩。
+LANG.CAR_STATUS.Warn_TextDEnglish.a3e9.Labels,车道保持辅助系统当前不可用。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a13d.Labels,12 伏蓄电池不充电。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a43b.Labels,车道保持辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a123.Labels,变速箱过热。\n请立即停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a328.Labels,请检查右侧转向信号灯/制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68f.Labels,下车警示系统和驶出车位辅助：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a377.Labels,制动器过热，请安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a308.Labels,请检查左侧日间行车灯/雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a470.Labels,故障：牵引力控制
+LANG.CAR_STATUS.Warn_TextDEnglish.1a675.Labels,自适应巡航 (ACC)：预见性调节功能\n在此国家不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a3e3.Labels,请降低机油油位。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a33c.Labels,请检查右侧大灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31c.Labels,请检查左侧后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a302.Labels,请检查左侧近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a467.Labels,预防式乘员保护系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f1.Labels,泊车制动功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c4.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a21e.Labels,请更换遥控钥匙电池。
+LANG.CAR_STATUS.Warn_TextDEnglish.a239.Labels,故障：电子驻车制动器(EPB)。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a204.Labels,压力损失：左后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.1a253.Labels,故障：制动器。请去维修站。
+LANG.CAR_STATUS.Units.Warning.BAR,bar
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f7.Labels,故障：全景摄像系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a233.Labels,故障：AdBlue (DEF)。 ${0} 后不能启动发动机。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30e.Labels,请检查右侧远光灯。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_HOUR,mph
+LANG.CAR_STATUS.Warn_TextDEnglish.a627.Labels,挂车辅助 (Trailer Assist) 已中断。摄像头无数据。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2fe.Labels,故障：车轮松动警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1c0.Labels,充电电缆过热，还不能解锁。请先冷却。
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_MINUTE,km/min
+LANG.CAR_STATUS.Warn_TextDEnglish.a676.Labels,自适应巡航 (ACC)：\n预见性调节功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a094.Labels,您的车辆可能会滑行。
+LANG.CAR_STATUS.Warn_TextDEnglish.a467.Labels,预防式乘员保护系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f1.Labels,泊车制动功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a323.Labels,请检查右侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0f6.Labels,空调受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a114.Labels,故障：AdBlue (DEF)。无法再启动发动机。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a690.Labels,下车警示系统/驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68a.Labels,故障：变道辅助系统和驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.a372.Labels,故障：12 伏车载电网。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a259.Labels,驾驶辅助系统按钮故障。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a6f2.Labels,故障：紧急辅助系统 (Emergency Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7e8.Labels,预防式乘员保护系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a53c.Labels,请挂入 P 挡后再离开车辆。\n请去维修站。
+LANG.CAR_STATUS.Units.Warning.CUBIC_METRE,m³
+LANG.CAR_STATUS.Warn_TextDEnglish.a21e.Labels,请更换遥控钥匙电池。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a273.Labels,压力损失：右前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a204.Labels,压力损失：左后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a502.Labels,请让维修人员检查 12 伏蓄电池。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1ab.Labels,泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a253.Labels,故障：制动器。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32e.Labels,挂车：请检查左侧转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a800.Labels,车门/发动机舱盖/行李厢盖未关闭。\n参见组合仪表中的本车状态。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a314.Labels,请检查右侧日间行车灯/驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a37d.Labels,高电压蓄电池：火灾危险! 确保交通安全的情\n况下立即停车并撤离。向专业救援人员求助!
+LANG.CAR_STATUS.Warn_TextDEnglish.a647.Labels,换油保养已到期!
+LANG.CAR_STATUS.Warn_TextDEnglish.a30e.Labels,请检查右侧远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a363.Labels,全轮驱动受限。请调整驾驶方式。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2b6.Labels,故障：驱动系统。车辆性能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a20f.Labels,故障：电子驻车制动器 (EPB)
+LANG.CAR_STATUS.Warn_TextDEnglish.a439.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a641.Labels,距离下次换油保养还有 ${0} 天
+LANG.CAR_STATUS.Warn_TextDEnglish.1a46d.Labels,系统识别到您在疲劳驾驶。请停车休息。
+LANG.CAR_STATUS.Warn_TextDEnglish.a690.Labels,下车警示系统/驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2ca.Labels,紧急呼叫功能受限。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a100.Labels,故障：制动器。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a433.Labels,变道辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7e8.Labels,预防式乘员保护系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a53c.Labels,请挂入 P 挡后再离开车辆。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a224.Labels,请加注最多 ${0} 机油。可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6a4.Labels,只能电动行驶。\n车辆性能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a687.Labels,变道辅助系统和下车警示系统：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1cb.Labels,助力转向器工作不正确。\n可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a273.Labels,压力损失：右前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.1a34e.Labels,有损害健康的危险! 二氧化碳\n浓度高。请打开车窗!
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f3.Labels,车轮螺栓松动。请检查所有车轮。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b1.Labels,请清洁前部泊车传感器。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2a7.Labels,请检查汽车起动系统。
+LANG.CAR_STATUS.Warn_TextDEnglish.a32e.Labels,挂车：请检查左侧转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a314.Labels,请检查右侧日间行车灯/驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a681.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a424.Labels,故障：灯光辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e8.Labels,预见性调节功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a106.Labels,故障：机油压力。请立即停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a13a.Labels,故障：电子驻车制动器。请使用驻车制动器。
+LANG.CAR_STATUS.Warn_TextDEnglish.a46d.Labels,系统识别到您在疲劳驾驶。请停车休息。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2d0.Labels,请检查副蓄电池的连接。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a216.Labels,方向盘锁止装置损坏。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e2.Labels,交通标志识别当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a100.Labels,故障：制动器。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a50e.Labels,车前测距监控系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7ee.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a687.Labels,变道辅助系统和下车警示系统：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2c7.Labels,请更换 12 伏蓄电池。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7d4.Labels,驶出车位辅助/盲区监控/下车警示系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ce.Labels,燃气装置检查到期!\n天然气模式在 ${0} 天后不可用
+LANG.CAR_STATUS.Warn_TextDEnglish.a20a.Labels,故障：变速箱。\n可以有限制地继续行驶。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2a7.Labels,请检查汽车起动系统。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1d2.Labels,全轮驱动当前受限。请调整驾驶方式。
+LANG.CAR_STATUS.Units.Warning.CELSIUS,°C
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f6.Labels,泊车雷达系统：\n请清洁侧面传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a146.Labels,故障：驱动系统。请安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a653.Labels,挂车：驶出车位辅助/盲区监控不可用。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_MINUTE,mi/min
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_HOUR,km/h
+LANG.CAR_STATUS.Warn_TextDEnglish.a777.Labels,故障：车辆能量系统。请去维修站。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_CUBIC_METER,mi/m³
+LANG.CAR_STATUS.Warn_TextDEnglish.1a742.Labels,车前测距监控系统不可用。电子稳定程序 (ESC) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a300.Labels,请检查左前转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a424.Labels,故障：灯光辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a0e8.Labels,预见性调节功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f0.Labels,泊车雷达系统：\n请清洁后部传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a140.Labels,故障：电驱动装置。请立即停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a13a.Labels,故障：电子驻车制动器。请使用驻车制动器。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1a9.Labels,前部泊车雷达系统不可用。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_KILOWATTHOUR,mi/kWh
+LANG.CAR_STATUS.Warn_TextDEnglish.a216.Labels,方向盘锁止装置损坏。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1bd.Labels,充电插座失灵。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a265.Labels,燃油滤清器中有水。请参阅用户手册。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_KILOGRAM,mi/kg
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f4.Labels,故障：挂车辅助 (Trailer Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ee.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a563.Labels,故障：变速箱。车速受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a326.Labels,请检查右侧制动灯/尾灯。
+LANG.CAR_STATUS.Units.Warning.GALLONS_PER_HOUR,gal/h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4a1.Labels,交通标志识别当前受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7d4.Labels,驶出车位辅助/盲区监控/下车警示系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68d.Labels,下车警示系统和驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a306.Labels,请检查左侧日间行车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4f0.Labels,再次按启动按键可以关闭车辆或点火开关。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a33a.Labels,请检查左前静态弯道灯。
+LANG.CAR_STATUS.Units.Warning.KILOWATTHOURS,kWh
+LANG.CAR_STATUS.Warn_TextDEnglish.1a320.Labels,请检查左侧制动灯/转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a653.Labels,挂车：驶出车位辅助/盲区监控不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a071.Labels,自动变道不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31a.Labels,请检查左侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0ed.Labels,预见性调节功能在此国家不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a207.Labels,助力转向器工作不正确。\n请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a300.Labels,请检查左前转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a56e.Labels,车道保持辅助系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.ffff.Labels,耗电量过高，目前剩余电量有限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c2.Labels,故障：前部泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a29f.Labels,制动器：过热。请挂挡并注意挡位建议。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a410.Labels,故障：自动驻车功能 (Auto Hold)
+LANG.CAR_STATUS.Warn_TextDEnglish.a743.Labels,车前测距监控系统可用性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a201.Labels,识别到压力损失。
+LANG.CAR_STATUS.Warn_TextDEnglish.a59d.Labels,折叠式车顶不可用。请参阅用户手册。
+LANG.CAR_STATUS.Units.Warning.KILOGRAMS_PER_HOUR,kg/h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1c3.Labels,Plug&Charge 在此充电桩上不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f4.Labels,故障：挂车辅助(Trailer Assist)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30b.Labels,请检查右前转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a326.Labels,请检查右侧制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a693.Labels,下车警示系统/变道辅助系统/驶出车位辅助：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4a1.Labels,交通标志识别当前受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68d.Labels,下车警示系统和驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a33a.Labels,请检查左前静态弯道灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a436.Labels,挂车：变道辅助系统\n不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a49f.Labels,故障：交通标志识别
+LANG.CAR_STATUS.Warn_TextDEnglish.a320.Labels,请检查左侧制动灯/转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a071.Labels,自动变道不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a317.Labels,故障：车辆照明
+LANG.CAR_STATUS.Warn_TextDEnglish.a410.Labels,故障：自动驻车功能 (Auto Hold)
+LANG.CAR_STATUS.Warn_TextDEnglish.a3ec.Labels,车道保持辅助系统已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32b.Labels,请检查高位制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a271.Labels,识别到压力损失。
+LANG.CAR_STATUS.Warn_TextDEnglish.a51a.Labels,牵引会损坏电驱动装置。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a644.Labels,请在服务概览中检查换油\n保养和车况检查的日期。
+LANG.CAR_STATUS.Warn_TextDEnglish.a202.Labels,压力损失：左前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a30b.Labels,请检查右前转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a407.Labels,制动助力系统失效。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_GALLON_US_EQUIVALENT,mpg (美)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7fa.Labels,故障：驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.a693.Labels,下车警示系统/变道辅助系统/驶出车位辅助：\n传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.a138.Labels,请检查冷却液液位。请参阅用户手册。
+LANG.CAR_STATUS.Units.Warning.KILOGRAMS,kg
+LANG.CAR_STATUS.Warn_TextDEnglish.a436.Labels,挂车：变道辅助系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a49f.Labels,故障：交通标志识别
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f6.Labels,左后车轮螺栓松动。请检查所有车轮。
+LANG.CAR_STATUS.Warn_TextDEnglish.a228.Labels,故障：混合动力系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6a1.Labels,下次启动时发动机自动运行。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b5.Labels,请清洁左右两侧泊车传感器。
+LANG.CAR_STATUS.Units.Warning.TWENTY_FOUR_HOURS,24h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a540.Labels,车前测距监控系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a291.Labels,电子驻车制动器 (EPB)：运输模式
+LANG.CAR_STATUS.Units.Warning.MILES_PER_POUND_UK,mi/lb
+LANG.CAR_STATUS.Warn_TextDEnglish.a7e6.Labels,请清洁传感器。预防式乘员保护系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a53a.Labels,请挂入 P 挡。
+LANG.CAR_STATUS.Warn_TextDEnglish.a222.Labels,请加注燃料。续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a685.Labels,变道辅助系统和下车警示系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a271.Labels,识别到压力损失。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2ed.Labels,P 按钮功能无效。发动机关闭时自动激活驻车锁。\n请去维修站!
+LANG.CAR_STATUS.Warn_TextDEnglish.a407.Labels,制动助力系统失效。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7fa.Labels,故障：驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.1a332.Labels,挂车：请检查制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a32c.Labels,请检查后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a312.Labels,请检查右侧日间行车灯/近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a37b.Labels,全轮驱动功能失灵。\n可以继续行驶。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e5.Labels,车辆只能在前桥抬起的情况下牵引。
+LANG.CAR_STATUS.Warn_TextDEnglish.a103.Labels,发动机过热。请立即安全停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a213.Labels,请检查挂车连接器锁止装置。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a309.Labels,请检查左侧日间行车灯/驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7eb.Labels,泊车功能的显示当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31d.Labels,请检查左侧制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7d1.Labels,驶出车位辅助/盲区监控/下车警示系统\n当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a540.Labels,车前测距监控系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a303.Labels,请检查左侧远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a291.Labels,电子驻车制动器 (EPB)：运输模式
+LANG.CAR_STATUS.Warn_TextDEnglish.a685.Labels,变道辅助系统和下车警示系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a239.Labels,故障：电子驻车制动器(EPB)。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a650.Labels,驶出车位辅助/盲区监控当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a332.Labels,挂车：请检查制动灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a40d.Labels,ESC 越野：行驶稳定性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f4.Labels,泊车雷达系统：\n请清洁传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a268.Labels,请添加天然气。续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f7.Labels,故障：全景摄像系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a43c.Labels,故障：车道保持辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1a6.Labels,后部泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a329.Labels,请检查右侧制动灯/转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a213.Labels,请检查挂车连接器锁止装置。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a378.Labels,制动器过热。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a309.Labels,请检查左侧日间行车灯/驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a471.Labels,故障：防抱死制动系统 (ABS)/\n牵引力控制系统 (TCS)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a676.Labels,自适应巡航 (ACC)：预见性调节功能\n当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a262.Labels,请检查制动摩擦片。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7eb.Labels,泊车功能的显示当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a323.Labels,请检查右侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31d.Labels,请检查左侧制动灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7d1.Labels,驶出车位辅助/盲区监控/下车警示系统\n当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68a.Labels,故障：变道辅助系统\n和驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.1a372.Labels,故障：12 伏车载电网。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a303.Labels,请检查左侧远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a468.Labels,预防式乘员保护系统：功能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c5.Labels,故障：泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a650.Labels,驶出车位辅助/盲区监控当前不可用。
+LANG.CAR_STATUS.Units.Warning.CUBIC_YARDS,yd³
+LANG.CAR_STATUS.Warn_TextDEnglish.a40d.Labels,ESC 越野：行驶稳定性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a144.Labels,故障：48 伏车载电网。\n请立即安全停车! 请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a21f.Labels,车内未找到遥控钥匙。
+LANG.CAR_STATUS.Warn_TextDEnglish.a442.Labels,故障：电子儿童安全锁
+LANG.CAR_STATUS.Warn_TextDEnglish.1a205.Labels,压力损失：右后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a329.Labels,请检查右侧制动灯/转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a378.Labels,制动器过热。请去维修站。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_CUBIC_YARD,mi/yd³
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2b6.Labels,故障：驱动系统。车辆性能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a234.Labels,请检查制动摩擦片。
+LANG.CAR_STATUS.Warn_TextDEnglish.a29d.Labels,离合器温度高。可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a439.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1c1.Labels,请为充电电缆使用紧急解锁。请参阅\n用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2ca.Labels,紧急呼叫功能受限。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a468.Labels,预防式乘员保护系统：功能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f2.Labels,泊车制动功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a642.Labels,距离下次车况检查还有 ${0} 天
+LANG.CAR_STATUS.Units.Warning.CUBIC_METERS_PER_100KM,m³/100km
+LANG.CAR_STATUS.Warn_TextDEnglish.1a433.Labels,变道辅助系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a115.Labels,故障：混合动力系统。\n请立即停车并参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a691.Labels,下车警示系统/变道辅助系统/驶出车位辅助\n当前不可用。
+LANG.CAR_STATUS.Units.Warning.ACCELERATION,m/s²
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0bc.Labels,请关闭驾驶员车门并系好安全带。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7e9.Labels,泊车功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a21f.Labels,车内未找到遥控钥匙。
+LANG.CAR_STATUS.Units.Warning.LITERS_PER_100KM,l/100km
+LANG.CAR_STATUS.Warn_TextDEnglish.1a274.Labels,压力损失：左后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a205.Labels,压力损失：右后侧轮胎
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_CUBIC_METER,km/m³
+LANG.CAR_STATUS.Warn_TextDEnglish.a503.Labels,请注意：尚未达到正常工作温度。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1ac.Labels,左右两侧泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4df.Labels,Departure warning deactivated. Production mode
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32f.Labels,挂车：请检查右侧转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4aa.Labels,故障：下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a315.Labels,请检查右侧近光灯/远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a648.Labels,换油保养和车况检查已到期!
+LANG.CAR_STATUS.Warn_TextDEnglish.a30f.Labels,请检查右侧雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a642.Labels,距离下次车况检查还有 ${0} 天
+LANG.CAR_STATUS.Warn_TextDEnglish.1a50e.Labels,车前测距监控系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a691.Labels,下车警示系统/变道辅助系统/驶出车位辅助\n当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2cb.Labels,故障：紧急呼叫功能。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a101.Labels,故障：电子驻车制动器
+LANG.CAR_STATUS.Warn_TextDEnglish.a7e9.Labels,泊车功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a225.Labels,机油传感器损坏。请去维修站。
+LANG.CAR_STATUS.Units.Warning.POUNDS_PER_HOUR,lb/h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a688.Labels,变道辅助系统和下车警示系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a274.Labels,压力损失：左后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b2.Labels,请清洁泊车传感器。
+LANG.CAR_STATUS.Units.Warning.MILES_PER_GALLON_US,mpg (美)
+LANG.CAR_STATUS.Units.Warning.MILES_PER_GALLON_UK,mpg (英)
+LANG.CAR_STATUS.Warn_TextDEnglish.a32f.Labels,挂车：请检查右侧转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4aa.Labels,故障：下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a315.Labels,请检查右侧近光灯/远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a682.Labels,驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a425.Labels,灯光辅助系统：请清洁前窗玻璃。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a13b.Labels,请勿在斜坡上泊车。请去维修站!
+LANG.CAR_STATUS.Warn_TextDEnglish.a46e.Labels,系统识别到您在疲劳驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2d1.Labels,发动机运转时，副蓄电池放电。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a659.Labels,定速巡航当前不可用。制动器温度高。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e3.Labels,电驱动装置过热。请减速行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a101.Labels,故障：电子驻车制动器
+LANG.CAR_STATUS.Units.Warning.KILOWATTHOURS_PER_100KM,kWh/100km
+LANG.CAR_STATUS.Warn_TextDEnglish.1a306.Labels,请检查左侧日间行车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a688.Labels,变道辅助系统和下车警示系统不可用。
+LANG.CAR_STATUS.Units.Warning.CUBIC_METERS_PER_HOUR,m³/h
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31a.Labels,请检查左侧尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f7.Labels,泊车雷达系统：请清洁侧面传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a682.Labels,驶出车位辅助不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a743.Labels,车前测距监控系统可用性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a40a.Labels,电子稳定程序 (ESC) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2a2.Labels,请加注燃料。续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a15b.Labels,系统正在更新... 请勿移动车辆!
+LANG.CAR_STATUS.Warn_TextDEnglish.a425.Labels,灯光辅助系统：请清洁前窗玻璃。
+LANG.CAR_STATUS.Warn_TextDEnglish.a78c.Labels,请挂入 P 挡。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f1.Labels,泊车雷达系统：\n请清洁后部传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a141.Labels,电驱动装置过热。\n请立即停车并参阅用户手册!
+LANG.CAR_STATUS.Warn_TextDEnglish.a217.Labels,故障：动态大灯随动转向
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1be.Labels,请拔下充电电缆然后重新连接。
+LANG.CAR_STATUS.Warn_TextDEnglish.a266.Labels,请添加液化气。续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f5.Labels,故障：倒车摄像头
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ef.Labels,泊车转向辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a564.Labels,需要发动机运转。请踩离合器踏板。
+LANG.CAR_STATUS.Warn_TextDEnglish.a22b.Labels,车速超过 120 km/h。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a327.Labels,请检查右侧后雾灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c8.Labels,需要发动机运转。请勿关闭发动机。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4a2.Labels,超速提醒当前不可用。
+LANG.CAR_STATUS.Units.Warning.GRAVITY_OF_EARTH,g
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68e.Labels,故障：下车警示系统和驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.a260.Labels,变速箱过热。可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a33b.Labels,请检查左侧大灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a147.Labels,故障：散热系统。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a321.Labels,请检查右后转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31b.Labels,请检查左侧倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a370.Labels,故障：移动钥匙。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a301.Labels,请检查左前驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a40a.Labels,电子稳定程序 (ESC) 已关闭。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a56f.Labels,制动助力系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0d4.Labels,
+LANG.CAR_STATUS.Warn_TextDEnglish.a141.Labels,电驱动装置过热。\n请立即停车并参阅用户手册!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a21c.Labels,故障：雨刮器
+LANG.CAR_STATUS.Warn_TextDEnglish.1a51a.Labels,牵引会损坏电驱动装置。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a202.Labels,压力损失：左前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f5.Labels,故障：倒车摄像头
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30c.Labels,请检查右前驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a29a.Labels,有溜车危险! 无法挂 P 挡。请使用驻车制动器。
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_LITER,km/l
+LANG.CAR_STATUS.Warn_TextDEnglish.a327.Labels,请检查右侧后雾灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a694.Labels,下车警示系统/变道辅助系统/驶出车位辅助\n不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a4a2.Labels,超速提醒当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a625.Labels,挂车辅助不可用。摄像头无数据。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68e.Labels,故障：下车警示系统和驶出车位辅助
+LANG.CAR_STATUS.Warn_TextDEnglish.a376.Labels,请添加天然气。续驶里程：${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.1a139.Labels,故障：电子驻车制动器。\n请立即停车并参阅用户手册!
+LANG.CAR_STATUS.Warn_TextDEnglish.a33b.Labels,请检查左侧大灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a321.Labels,请检查右后转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a417.Labels,上坡起步辅助系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a370.Labels,故障：移动钥匙。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a56f.Labels,制动助力系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1af.Labels,请清洁后部泊车传感器。
+LANG.CAR_STATUS.Units.Warning.KILOMETERS,km
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7e6.Labels,请清洁传感器。预防式乘员保护系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a113.Labels,请加注 AdBlue (DEF)。无法再启动发动机。
+LANG.CAR_STATUS.Warn_TextDEnglish.a21c.Labels,故障：雨刮器
+LANG.CAR_STATUS.Warn_TextDEnglish.1a318.Labels,请检查左后转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a069.Labels,该区域没有可用数据。
+LANG.CAR_STATUS.Warn_TextDEnglish.a411.Labels,故障：上坡起步辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a7c6.Labels,故障：变速箱。可以继续行驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a6f1.Labels,紧急辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32c.Labels,请检查后雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a347.Labels,重新起步提示功能不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a312.Labels,请检查右侧日间行车灯/近光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a645.Labels,距离下次换油保养\n还有 %0 %1\n距离下次车况检查\n还有 %4 %1
+LANG.CAR_STATUS.Warn_TextDEnglish.a30c.Labels,请检查右前驻车示宽灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a408.Labels,故障：电子稳定程序 (ESC)
+LANG.CAR_STATUS.Warn_TextDEnglish.a694.Labels,下车警示系统/变道辅助系统/驶出车位辅助\n不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a139.Labels,故障：电子驻车制动器。\n请立即停车并参阅用户手册!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a104.Labels,请检查冷却液液位。请参阅用户手册。
+LANG.CAR_STATUS.Units.Warning.FAHRENHEIT,°F
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f7.Labels,右后车轮螺栓松动。请检查所有车轮。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a25d.Labels,故障：电驱动装置。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a318.Labels,请检查左后转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a069.Labels,该区域没有可用数据。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6a2.Labels,需要发动机运转。请退出纯电动模式。
+LANG.CAR_STATUS.Warn_TextDEnglish.a367.Labels,车速超过 80 km/h。
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f1.Labels,紧急辅助系统当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a292.Labels,电子驻车制动器：生产模式
+LANG.CAR_STATUS.Warn_TextDEnglish.a7e7.Labels,由于挂车，预防式乘员\n保护系统受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a53b.Labels,故障：驾驶员车门接触开关
+LANG.CAR_STATUS.Warn_TextDEnglish.a223.Labels,请降低机油油位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a272.Labels,压力损失：左前侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a2ee.Labels,故障：侧面泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a13e.Labels,故障：12 伏蓄电池。无法重新启动。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a408.Labels,故障：电子稳定程序 (ESC)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1b0.Labels,请清洁前部泊车传感器。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a43c.Labels,故障：车道保持辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e6.Labels,车辆只能在后桥抬起的情况下牵引。
+LANG.CAR_STATUS.Units.Warning.KILOMETERS_PER_KG,km/kg
+LANG.CAR_STATUS.Warn_TextDEnglish.a104.Labels,请检查冷却液液位。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a471.Labels,故障：防抱死制动系统 (ABS)\n/牵引力控制系统 (TCS)
+LANG.CAR_STATUS.Units.Warning.METERS_PER_SECOND,m/s
+LANG.CAR_STATUS.Units.Warning.KILOWATTS,kW
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0e0.Labels,无法显示总里程。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a25d.Labels,故障：电驱动装置。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7ec.Labels,泊车功能的显示当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a657.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a31e.Labels,请检查左侧后雾灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a339.Labels,请检查右前静态弯道灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7d2.Labels,故障：驶出车位辅助/盲区监控/下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a304.Labels,请检查左侧雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a292.Labels,电子驻车制动器：生产模式
+LANG.CAR_STATUS.Warn_TextDEnglish.1a36d.Labels,未找到移动钥匙。
+LANG.CAR_STATUS.Warn_TextDEnglish.a686.Labels,故障：变道辅助系统和下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a13e.Labels,故障：12 伏蓄电池。\n无法重新启动。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a651.Labels,故障：驶出车位辅助/盲区监控
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2da.Labels,故障：电动汽车低速提示音。请谨慎驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a5a4.Labels,故障：折叠式车顶。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2f5.Labels,泊车雷达系统：\n请清洁传感器，并安全驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a269.Labels,故障：天然气。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f8.Labels,故障：全景摄像系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a10a.Labels,12 伏蓄电池不充电。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.a3e4.Labels,机油传感器损坏。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a234.Labels,请检查制动摩擦片。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1a7.Labels,后部泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1bb.Labels,车辆未能充满电。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a263.Labels,请让发动机暖机直至油温达到 ${0}。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a7f2.Labels,泊车制动功能当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7ec.Labels,泊车功能的显示当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a324.Labels,请检查右侧倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a657.Labels,驶出车位辅助当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a31e.Labels,请检查左侧后雾灯/尾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a7d2.Labels,故障：驶出车位辅助/盲区监控/下车警示系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a68b.Labels,变道辅助和驶出车位辅助不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a373.Labels,故障：12 伏车载电网。\n请立即安全停车! 请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a304.Labels,请检查左侧雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a36d.Labels,未找到虚拟钥匙。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a671.Labels,车速限速器不可用。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c6.Labels,散热器百叶板功能受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a651.Labels,故障：驶出车位辅助/盲区监控
+LANG.CAR_STATUS.Warn_TextDEnglish.a40e.Labels,ESC 运动：\n行驶稳定性受限。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2da.Labels,故障：电动汽车低速\n提示音。请谨慎驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a145.Labels,故障：48 伏车载电网。\n请勿启动车辆。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.a2c0.Labels,故障：后部泊车雷达系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a7f8.Labels,故障：全景摄像系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a10a.Labels,12 伏蓄电池不充电。请立即安全停车!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a206.Labels,故障：间接式胎压监测
+LANG.CAR_STATUS.Warn_TextDEnglish.1a30f.Labels,请检查右侧雾灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a504.Labels,故障：\n12 伏蓄电池诊断。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a628.Labels,挂车辅助 (Trailer Assist)\n当前不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a379.Labels,最高车速限制到 ${0}。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a095.Labels,请立即给车辆充电! 否则可能会\n损伤蓄电池。
+LANG.CAR_STATUS.Warn_TextDEnglish.a324.Labels,请检查右侧倒车灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a68b.Labels,变道辅助和驶出车位辅助不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a2cb.Labels,故障：紧急呼叫功能。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.a373.Labels,故障：12 伏车载电网。\n请立即安全停车! 请参阅用户手册。
+LANG.CAR_STATUS.Units.Warning.LITERS,l
+LANG.CAR_STATUS.Warn_TextDEnglish.a671.Labels,车速限速器不可用。请参阅用户手册。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a434.Labels,故障：变道辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0bd.Labels,请给车辆充电。续驶里程： ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.a110.Labels,立即加注发动机机油!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a275.Labels,压力损失：右后侧轮胎
+LANG.CAR_STATUS.Warn_TextDEnglish.a206.Labels,故障：间接式胎压监测
+LANG.CAR_STATUS.Warn_TextDEnglish.a26f.Labels,故障：电动汽车低速提示音。请谨慎驾驶。
+LANG.CAR_STATUS.Warn_TextDEnglish.a504.Labels,故障：\n12 伏蓄电池诊断。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a1ad.Labels,左右两侧泊车雷达系统不可用。
+LANG.CAR_STATUS.Warn_TextDEnglish.a255.Labels,故障：雨量传感器
+LANG.CAR_STATUS.Warn_TextDEnglish.1a4ab.Labels,下车警示系统不可用。传感器无视野。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a220.Labels,12 伏蓄电池电量不足。通过行驶充电。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a107.Labels,助力转向器失灵。请去维修站!
+LANG.CAR_STATUS.Warn_TextDEnglish.1a46e.Labels,系统识别到您在疲劳驾驶。\n请停车休息。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a32a.Labels,请检查牌照灯。
+LANG.CAR_STATUS.Units.Warning.QUART_US,qt
+LANG.CAR_STATUS.Units.Warning.QUART_UK,qt
+LANG.CAR_STATUS.Warn_TextDEnglish.a136.Labels,故障：离合器。请去维修站。
+LANG.CAR_STATUS.Warn_TextDEnglish.1a310.Labels,请检查右侧侧面转向信号灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a643.Labels,距离下次车况检查还有 ${0}
+LANG.CAR_STATUS.Warn_TextDEnglish.a30a.Labels,请检查左侧近光灯/远光灯。
+LANG.CAR_STATUS.Warn_TextDEnglish.a434.Labels,故障：变道辅助系统
+LANG.CAR_STATUS.Warn_TextDEnglish.a692.Labels,故障：\n变道辅助系统,下车警示系统和驶出车位辅助
+LANG.CAR_STATUS.Units.Warning.GALLONS_US,gal (美)
+LANG.CAR_STATUS.Units.Warning.GALLONS_UK,gal (英)
+LANG.CAR_STATUS.Warn_TextDEnglish.1a0c3.Labels,请让维修人员检查 12 伏蓄电池。\n请去维修站。
+LANG.CAR_STATUS.Units.Warning.YARDS,yd
+LANG.CAR_STATUS.Warn_TextDEnglish.a6f4.Labels,左前车轮螺栓松动。\n请检查所有车轮。
+LANG.CAR_STATUS.CarVehicleWarnMessages.MessageIndexAndCount,${0} / ${1}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RDKS.EmptyText,
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RDKS.TirePressureOK.Text,轮胎压力正常
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RDKS.PressureTooLow.Text,轮胎压力过低!
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning.SystemNotAvailable.Text,很抱歉，直接式胎压\n监测当前不可用。
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RDKS.CheckPressure.Text,请检查轮胎压力。
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RDKS.TireBreakdown.Text,轮胎失压!
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning.System_FSGControl.Text,直接式胎压监测已\n停用。无可用传感器。
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RKA.SystemNotAvailable.Text,间接式胎压监测\n当前不可用。
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.Warning_RKA.Text,请检查全部 4 个轮胎\n压力并调整为所需值。\n然后按 "SET"。
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontRight.PressureValue_BAR.Warning.Text,${0}.${1}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontRight.PressureValue_PSI.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontRight.PressureValue_KPA.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontLeft.PressureValue_KPA.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontLeft.PressureValue_PSI.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresFrontLeft.PressureValue_BAR.Warning.Text,${0}.${1}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearRight.PressureValue_PSI.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearRight.PressureValue_BAR.Warning.Text,${0}.${1}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearRight.PressureValue_KPA.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearLeft.PressureValue_BAR.Warning.Text,${0}.${1}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearLeft.PressureValue_PSI.Warning.Text,${0}
+LANG.CARSTATUS_MAIN_FAVORITE_TIRESSTATUS.TiresRearLeft.PressureValue_KPA.Warning.Text,${0}
+LANG.CAR_STATUS_SMALL_TILE_MAIN.Label_moreWarnings.text,信息：${0} 条
+LANG.CAR_STATUS_SMALL_TILE_MAIN.Label_OneWarning.text,${0} 条信息
+LANG.CAR_STATUS_SMALL_TILE_MAIN.Label_noWarning.text,一路顺风!
+LANG.CAR_STATUS_SMALL_TILE_S_LARGE_MAIN.Label_moreWarnings.text,信息：${0} 条
+LANG.CAR_STATUS_SMALL_TILE_S_LARGE_MAIN.Label_OneWarning.text,${0} 条信息
+LANG.CAR_STATUS_SMALL_TILE_S_LARGE_MAIN.Label_noWarning.text,一路顺风!
+LANG.PO_DASHCAM_GSENSOR_TURN_ON_WARNING_INFO.Info.Text,开启自动紧急录像，蓄电池电量有耗尽的可能。
+LANG.PO_DASHCAM_GSENSOR_TURN_ON_WARNING_INFO.Confirm.Text,确认
+LANG.PO_DASHCAM_GSENSOR_TURN_ON_WARNING_INFO.Cancel.Text,取消
+LANG.PO_DASHCAM_INFO_REACH_LOCK_VIDEO_WARNING.Info.Text,已锁定视频的存储空间即将达到上限。\n请及时解锁一些视频。
+LANG.PO_DASHCAM_INFO_REACH_PICTURE_WARNING.Info.Text,已拍摄图片的数量即将达到上限。\n请及时删除一些图片。
+LANG.PO_NAV2_X_URGENT.Warning.Text,注意!
+LANG.PO_NAV2_CONFIRM_RANGEWARNING_THRESHOLD.Info.Text,电池即将耗尽。您想搜索附近的充电站吗？
+LANG.PO_NAV2_CONFIRM_RANGEWARNING_THRESHOLD.ButtonCancel.Text,取消
+LANG.PO_NAV2_CONFIRM_RANGEWARNING_THRESHOLD.ButtonSearch.Text,搜索
+LANG.PO_NAV2_FUEL_WARNING.InfoText,请立即加油。您可以搜索附近的加油站。
+LANG.PO_NAV2_FUEL_WARNING.Button_Cancel.Label,取消
+LANG.PO_NAV2_FUEL_WARNING.Button_Search.Label,搜索
+LANG.PO_NAV2_FUEL_WARNING_ADBLUE.InfoText,请尽快添加AdBlue (DEF)。\n你可以搜索附近的加油站。
+LANG.PO_NAV2_FUEL_WARNING_CNG.InfoText,请立即加油。\n您可以在附近搜索液化天然气加油站。
+LANG.PO_NAV2_FUEL_WARNING_LPG.InfoText,请立即加油。\n您可以在附近搜索液化石油加油站。
+LANG.PO_INFO_PHONE_BLUETOOTH_BATTERY_WARNING.Textarea.StatusInformation,${0}\n电池电量不足。
+LANG.PO_ALERT_PHONE_ACTIVE_CALL_HANDOVER_WARNING.Textarea.StatusInformation,请在 ${0} 秒后通过您的移动电话继续呼叫。
+LANG.PO_ALERT_PHONE_ACTIVE_CALL_HANDOVER_WARNING.Button.Ok,确定
+LANG.PO_SMARTPHONEINTEGRATION_ALERT_BATTERY_WARNING.InfoText.text,${0}\n请尽快为您的移动电话充电。为了您的安全，\n驾驶时请勿操作移动设备。
+LANG.SpellerApp.Alphanumeric.SLDE.DisclaimerWarning.text,为了您的安全，在行驶过程中请停止输入。
+LANG.TUNER_OVERLAY_DMB_EMERGENCY_WARNINGS_AFFECTED_AREA.Headline_Label,涉及地区
+LANG.TUNER_OVERLAY_DMB_EMERGENCY_WARNINGS_AFFECTED_AREA.OK_Label,确定
+LANG.PhoneDesktop.CIOVisualization.Homescreen.ShortcutTile.Warnings.EmptyText,
+LANG.CarStatus.CIOVisualization.Homescreen.ShortcutTile.Warnings.Icon.EmptyText,
+LANG.CARSTATUS.CIOVisualization.Homescreen.ShortcutTile.Warnings.EmptyText,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
